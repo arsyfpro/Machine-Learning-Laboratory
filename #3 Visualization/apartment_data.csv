@@ -1,0 +1,1501 @@
+Unit_ID,Region,Locality,Furnished,Bathroom,No_Rooms,Area,AnnualPrice
+kmva045,Jakarta Selatan,Kemang,1,1,0,43.0,132000000
+mg2c209,Jakarta Barat,Tanjung Duren,1,1,2,42.0,55000000
+tmjc172,Jakarta Pusat,Kemayoran,1,1,2,62.0,75000000
+kgca002,Jakarta Selatan,Kebagusan,1,1,0,28.0,38000000
+kpcc002,Jakarta Selatan,Kuningan,1,1,2,75.0,168000000
+parf003,Jakarta Selatan,Pancoran,1,1,1,27.0,42000000
+tmbb113,Jakarta Pusat,Kemayoran,1,1,1,29.0,44000000
+tssb011,Jakarta Selatan,Semanggi,1,1,1,43.0,96000000
+rmgc030,Jakarta Barat,Tanjung Duren,1,1,2,53.0,95000000
+tmyc001,Jakarta Pusat,Kemayoran,1,1,2,85.0,95000000
+mg1c087,Jakarta Barat,Tanjung Duren,1,1,2,40.0,39000000
+mqrc052,Jakarta Barat,Kebon Jeruk,0,2,2,76.0,70000000
+gcpc014,Bekasi,Pekayon,1,1,2,30.0,22000000
+gprc164,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,65000000
+tmkb021,Jakarta Selatan,Kemang,1,1,1,87.0,144000000
+gpkd006,Jakarta Pusat,Kemayoran,0,3,3,96.0,60000000
+gbpc040,Jakarta Utara,Pluit,1,2,2,74.0,100000000
+tmkb030,Jakarta Selatan,Kemang,1,1,1,87.0,204000000
+twfb001,Jakarta Selatan,Kuningan,1,1,1,45.0,90000000
+blzb007,Jakarta Selatan,Permata Hijau,1,1,1,65.0,132000000
+mg2c076,Jakarta Barat,Tanjung Duren,1,1,2,42.0,58000000
+pryb001,Jakarta Pusat,Gatot Subroto,1,1,1,63.0,162000000
+mepc052,Jakarta Pusat,Menteng,1,1,2,61.0,200000000
+gbpa037,Jakarta Utara,Pluit,1,1,0,21.0,30000000
+bpra004,Jakarta Selatan,Bintaro,1,1,0,28.0,60000000
+crac006,Jakarta Barat,Cengkareng,0,2,2,55.0,42400000
+kmvc025,Jakarta Selatan,Kemang,1,2,2,89.0,210000000
+hmtc001,Jakarta Selatan,Gandaria,1,2,2,123.0,486000000
+bscc054,Jakarta Timur,Cipinang,1,1,2,34.0,55000000
+trsb127,Jakarta Barat,Tanjung Duren,1,1,1,38.0,55000000
+tmbc020,Jakarta Pusat,Kemayoran,0,1,2,52.0,72000000
+mpra066,Jakarta Barat,Kedoya,1,1,0,28.0,38000000
+parb027,Jakarta Selatan,Pancoran,1,1,1,33.0,43000000
+kmva051,Jakarta Selatan,Kemang,1,1,0,43.0,144000000
+pucb122,Jakarta Barat,Cengkareng,0,1,1,35.0,35000000
+supc096,Jakarta Pusat,Sudirman,1,1,2,48.0,105000000
+puma062,Jakarta Barat,Puri Indah,1,1,0,26.0,35000000
+pkta052,Jakarta Selatan,Kebayoran Lama,0,1,0,23.0,48000000
+mqrd014,Jakarta Barat,Kebon Jeruk,0,3,3,140.0,120000000
+ascc002,Jakarta Pusat,Thamrin,1,2,2,128.0,486000000
+puma055,Jakarta Barat,Puri Indah,1,1,0,26.0,35500000
+supc019,Jakarta Pusat,Sudirman,1,1,2,52.0,75000000
+tssa051,Jakarta Selatan,Semanggi,1,1,0,37.0,78750000
+mepb009,Jakarta Pusat,Menteng,1,1,1,40.0,120000000
+ganc018,Jakarta Utara,Kelapa Gading,1,1,2,35.0,27000000
+trsb058,Jakarta Barat,Tanjung Duren,0,1,1,38.0,71000000
+mrsc007,Tangerang,Serpong,0,1,2,39.75,45000000
+trsc016,Jakarta Barat,Tanjung Duren,0,3,2,99.0,140000000
+trsc063,Jakarta Barat,Tanjung Duren,0,1,2,44.0,78000000
+gklc007,Bekasi,Pekayon,0,1,2,54.0,35000000
+astb003,Tangerang,Cikokol,1,1,1,44.0,72000000
+cagc005,Jakarta Selatan,Casablanca,1,2,2,80.0,291900000
+mrsb002,Tangerang,Serpong,1,1,1,22.0,60000000
+kucb017,Jakarta Selatan,Kuningan,1,1,1,50.0,144000000
+trsd013,Jakarta Barat,Tanjung Duren,1,2,3,65.0,145000000
+mepa047,Jakarta Pusat,Menteng,1,1,0,33.0,85900000
+cdpa004,Tangerang,BSD City,1,1,0,28.0,39000000
+rmgc015,Jakarta Barat,Tanjung Duren,1,1,2,53.0,75000000
+kmvc059,Jakarta Selatan,Kemang,1,2,2,121.0,234000000
+cipa001,Jakarta Barat,Puri Indah,0,1,0,26.0,25000000
+mesc019,Jakarta Pusat,Menteng,1,1,2,49.0,72000000
+tmjc108,Jakarta Pusat,Kemayoran,1,1,2,73.0,135000000
+tnaa004,Tangerang,Karang Tengah,1,1,0,27.0,40000000
+pumb025,Jakarta Barat,Puri Indah,0,1,1,37.0,39000000
+gghc015,Jakarta Utara,Kelapa Gading,1,1,2,48.0,38000000
+ppva032,Jakarta Barat,Kebon Jeruk,1,1,0,22.0,35000000
+terc001,Jakarta Pusat,Thamrin,1,1,2,65.0,175000000
+ppva101,Jakarta Barat,Kebon Jeruk,0,1,0,21.0,30000000
+spvc026,Jakarta Utara,Sunter,1,1,2,35.0,33000000
+trsd019,Jakarta Barat,Tanjung Duren,1,2,3,65.0,137000000
+cepd001,Jakarta Barat,Tanjung Duren,1,2,3,110.0,230000000
+pucb097,Jakarta Barat,Cengkareng,1,1,1,35.0,50000000
+ppva043,Jakarta Barat,Kebon Jeruk,1,1,0,25.0,28500000
+gpva016,Jakarta Barat,Cengkareng,0,1,0,25.0,21000000
+tmjc141,Jakarta Pusat,Kemayoran,0,1,2,77.0,85000000
+mtsb002,Tangerang,Gading Serpong,1,1,1,42.0,70000000
+gwrc005,Jakarta Barat,Kebon Jeruk,1,2,2,86.0,111000000
+strc010,Jakarta Timur,Cakung,0,1,2,36.0,20050000
+gprc061,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,52000000
+tpca001,Tangerang,Cikokol,1,1,0,32.0,54000000
+cagd003,Jakarta Selatan,Casablanca,1,2,3,104.0,327600000
+lvnb004,Jakarta Selatan,Pancoran,1,1,1,63.0,120000000
+astc001,Tangerang,Cikokol,1,1,2,52.0,90000000
+stmd040,Jakarta Barat,Puri Indah,1,2,3,148.0,280000000
+cepd004,Jakarta Barat,Tanjung Duren,0,2,3,150.0,230000000
+skva006,Tangerang,BSD City,1,1,0,24.0,50000000
+gcmd002,Jakarta Pusat,Kemayoran,1,1,3,99.0,65000000
+trsd058,Jakarta Barat,Tanjung Duren,1,3,3,135.0,175000000
+blzb010,Jakarta Selatan,Permata Hijau,1,1,1,62.0,96000000
+klcc020,Jakarta Selatan,Pancoran,1,1,2,33.0,57950000
+am2c006,Jakarta Selatan,Kuningan,1,1,2,92.0,144000000
+cepb003,Jakarta Barat,Tanjung Duren,1,1,1,49.0,110000000
+esdd014,Jakarta Selatan,Dharmawangsa,1,2,3,185.0,400000000
+pucb143,Jakarta Barat,Cengkareng,1,1,1,35.0,48000000
+trsb130,Jakarta Barat,Tanjung Duren,1,1,1,38.0,60000000
+tard024,Jakarta Selatan,Kuningan,1,3,3,93.0,110000000
+tmkb039,Jakarta Selatan,Kemang,1,1,1,87.0,132000000
+pmac001,Jakarta Utara,Pluit,1,2,2,163.0,172000000
+puca071,Jakarta Barat,Cengkareng,0,1,0,26.0,24000000
+pucc074,Jakarta Barat,Cengkareng,0,1,2,50.0,35000000
+19vb001,Tangerang,Daan Mogot,1,1,1,21.0,29000000
+mmac009,Jakarta Utara,Ancol,1,1,2,48.0,55000000
+urka018,Tangerang,Karawaci,1,1,0,35.0,45000000
+trsd030,Jakarta Barat,Tanjung Duren,0,1,3,65.0,87000000
+rmgc057,Jakarta Barat,Tanjung Duren,0,1,2,42.0,77000000
+trsc127,Jakarta Barat,Tanjung Duren,1,1,2,50.0,72000000
+bscc067,Jakarta Timur,Cipinang,1,1,2,36.0,57000000
+stmc041,Jakarta Barat,Puri Indah,1,2,2,145.0,200000000
+tmjc049,Jakarta Pusat,Kemayoran,0,1,2,70.0,45000000
+pmcd003,Jakarta Selatan,TB Simatupang,1,2,3,135.0,170000000
+mg1c128,Jakarta Barat,Tanjung Duren,1,1,2,40.0,40000000
+spva025,Jakarta Utara,Sunter,1,1,0,22.0,40000000
+sipc004,Jakarta Selatan,Tebet,1,1,2,38.0,90000000
+stcc007,Jakarta Selatan,Sudirman,1,3,2,92.0,120000000
+thrc012,Jakarta Pusat,Thamrin,1,1,2,65.0,120000000
+tfla016,Jakarta Timur,Pulomas,1,1,0,21.0,25000000
+narc018,Jakarta Utara,Ancol,0,1,2,42.0,26100000
+mepa080,Jakarta Pusat,Menteng,1,1,0,28.0,72000000
+rsrb001,Jakarta Pusat,Kemayoran,1,1,1,73.0,125000000
+gprc024,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,55000000
+astb001,Tangerang,Cikokol,1,1,1,45.0,80000000
+tnaa026,Tangerang,Karang Tengah,0,1,0,27.0,30000000
+clsb008,Jakarta Pusat,Sudirman,1,1,1,76.0,180000000
+tmjc128,Jakarta Pusat,Kemayoran,1,1,2,62.0,80000000
+spvc045,Jakarta Utara,Sunter,1,1,2,35.0,43500000
+z-b0001,Jakarta Selatan,Permata Hijau,1,1,1,60.0,163800000
+kmvc015,Jakarta Selatan,Kemang,1,2,2,110.0,240000000
+bica003,Tangerang,Bintaro,1,1,0,27.0,84000000
+gtcd002,Jakarta Barat,Grogol,0,2,3,111.0,100000000
+mepc015,Jakarta Pusat,Menteng,1,2,2,60.0,240000000
+rorb002,Jakarta Selatan,Pejaten,0,1,1,35.92,48000000
+cptc002,Jakarta Pusat,Salemba,1,2,2,79.0,152000000
+strc020,Jakarta Timur,Cakung,1,1,2,35.0,38000000
+tbvb005,Jakarta Pusat,Tanah Abang,1,1,1,45.0,90000000
+skgc024,Jakarta Selatan,Setiabudi,1,2,2,93.0,300000000
+cpab002,Jakarta Barat,Cengkareng,1,1,1,36.0,17000000
+brzb011,Tangerang,BSD City,1,1,1,43.0,110000000
+mqrc035,Jakarta Barat,Kebon Jeruk,0,2,2,76.0,80000000
+pucb080,Jakarta Barat,Cengkareng,1,1,1,36.0,47000000
+mapb024,Jakarta Barat,Tanjung Duren,0,1,1,29.0,54000000
+mepc059,Jakarta Pusat,Menteng,1,2,2,60.0,144000000
+ganc007,Jakarta Utara,Kelapa Gading,1,1,2,35.0,27000000
+htpb006,Jakarta Selatan,Pondok Indah,1,1,1,56.0,132000000
+tnsa002,Jakarta Timur,Pasar Rebo,1,1,0,29.0,38000000
+grpc011,Jakarta Selatan,Kalibata,1,1,2,35.0,51000000
+bprb001,Jakarta Selatan,Bintaro,1,1,1,42.0,84000000
+ghtc014,Jakarta Selatan,Gandaria,1,3,2,92.0,228000000
+sscc053,Jakarta Barat,Grogol,0,2,2,55.0,54000000
+thrc015,Jakarta Pusat,Thamrin,1,1,2,65.0,120000000
+mpra109,Jakarta Barat,Kedoya,1,1,0,32.0,49000000
+pukb002,Jakarta Pusat,Kemayoran,1,1,1,49.0,57000000
+htpb004,Jakarta Selatan,Pondok Indah,1,1,1,58.0,115200000
+narb005,Jakarta Utara,Ancol,1,1,1,31.0,40000000
+tmjb017,Jakarta Pusat,Kemayoran,0,1,1,49.0,55000000
+trsd052,Jakarta Barat,Tanjung Duren,0,2,3,65.0,75000000
+wskd001,Jakarta Barat,Kedoya,1,2,3,101.0,60000000
+spva011,Jakarta Utara,Sunter,1,1,0,22.0,37950000
+mg1c120,Jakarta Barat,Tanjung Duren,1,1,2,40.0,45000000
+gdbc010,Jakarta Selatan,Pejaten,1,1,2,50.0,76000000
+mpra045,Jakarta Barat,Kedoya,1,1,0,32.0,47000000
+tmbc004,Jakarta Pusat,Kemayoran,1,1,2,49.0,75000000
+tnac012,Tangerang,Karang Tengah,1,1,2,46.0,37500000
+klcb014,Jakarta Selatan,Pancoran,1,1,1,30.0,66000000
+moic039,Jakarta Utara,Kelapa Gading,1,1,2,45.0,63000000
+gprc018,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,45000000
+kgca026,Jakarta Selatan,Kebagusan,1,1,0,22.0,29250000
+bscd012,Jakarta Timur,Cipinang,1,1,3,48.0,58000000
+trsa027,Jakarta Barat,Tanjung Duren,0,1,0,26.0,35000000
+esdc003,Jakarta Selatan,Dharmawangsa,1,2,2,134.0,405000000
+pucc021,Jakarta Barat,Cengkareng,1,1,2,50.0,63000000
+thrc013,Jakarta Pusat,Thamrin,1,1,2,65.0,132000000
+svcc007,Jakarta Utara,Pluit,1,2,2,75.0,90000000
+ppva064,Jakarta Barat,Kebon Jeruk,1,1,0,24.0,250000000
+jkrc011,Jakarta Pusat,Thamrin,1,1,2,50.0,100800000
+ctra022,Jakarta Barat,Daan Mogot,1,1,0,40.0,32500000
+rmgd008,Jakarta Barat,Tanjung Duren,1,2,3,110.0,175000000
+cagc038,Jakarta Selatan,Casablanca,1,2,2,64.0,145000000
+rmgc031,Jakarta Barat,Tanjung Duren,1,1,2,53.0,80000000
+btvd005,Jakarta Pusat,Bendungan Hilir,1,2,3,118.0,252000000
+mppc001,Jakarta Utara,Sunter,1,1,2,49.0,54150000
+thrb020,Jakarta Pusat,Thamrin,1,1,1,40.0,90000000
+tmbc067,Jakarta Pusat,Kemayoran,1,1,2,70.0,84000000
+mqrd017,Jakarta Barat,Kebon Jeruk,1,2,3,72.0,150000000
+jkrd001,Jakarta Pusat,Thamrin,1,2,3,86.0,120000000
+vsua006,Tangerang,Karawaci,1,1,0,21.0,32000000
+stlb001,Bogor,Sentul,1,1,1,30.0,60000000
+kmva008,Jakarta Selatan,Kemang,1,1,0,43.0,132000000
+lvnc007,Jakarta Selatan,Pancoran,1,1,2,122.0,204000000
+spva021,Jakarta Utara,Sunter,1,1,0,22.0,42000000
+tmbb126,Jakarta Pusat,Kemayoran,0,1,1,32.0,50000000
+psvd001,Jakarta Utara,Pluit,1,2,3,56.0,45000000
+shob008,Jakarta Barat,Tanjung Duren,0,2,1,96.0,100000000
+gghd002,Jakarta Utara,Kelapa Gading,0,2,3,75.0,47500000
+skgc033,Jakarta Selatan,Setiabudi,1,1,2,63.0,195000000
+ssca017,Jakarta Barat,Grogol,1,1,0,31.0,37000000
+tbvb012,Jakarta Pusat,Tanah Abang,1,1,1,45.0,102000000
+gprc070,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,60000000
+blmb022,Jakarta Barat,Kebon Jeruk,1,1,1,33.0,50000000
+lxtc010,Jakarta Selatan,Bintaro,1,2,2,88.0,180000000
+bsca021,Jakarta Timur,Cipinang,1,1,0,22.0,38000000
+trsd026,Jakarta Barat,Tanjung Duren,0,2,3,65.0,100000000
+gbpd006,Jakarta Utara,Pluit,1,1,3,42.0,55000000
+ppvc072,Jakarta Barat,Kebon Jeruk,0,1,2,35.0,30000000
+glvb001,Tangerang,Ciputat,1,1,1,30.0,40000000
+fwkc005,Jakarta Utara,Kelapa Gading,1,1,2,85.0,95000000
+tssa033,Jakarta Selatan,Semanggi,1,1,0,37.0,66000000
+grpc059,Jakarta Selatan,Kalibata,1,1,2,34.0,54000000
+ssrc009,Jakarta Pusat,Sudirman,1,2,2,85.0,291600000
+puca030,Jakarta Barat,Cengkareng,0,1,0,27.0,35000000
+ppvc075,Jakarta Barat,Kebon Jeruk,1,0,2,35.0,40000000
+tarc008,Jakarta Selatan,Kuningan,1,1,2,76.0,85200000
+taac025,Jakarta Barat,Tanjung Duren,1,1,2,88.0,125000000
+tflc001,Jakarta Timur,Pulomas,1,1,2,32.0,50000000
+mthc001,Jakarta Timur,Kampung Melayu,1,1,2,58.0,66000000
+pucb145,Jakarta Barat,Cengkareng,0,1,1,35.0,36000000
+crda002,Depok,Cinere,1,1,0,22.0,42000000
+ppvc096,Jakarta Barat,Kebon Jeruk,0,1,2,35.0,36000000
+tssa026,Jakarta Selatan,Semanggi,1,1,0,37.0,84000000
+p-c0002,Jakarta Selatan,Tebet,1,1,2,38.0,88000000
+ssrc035,Jakarta Pusat,Sudirman,1,1,2,68.0,230000000
+bscc079,Jakarta Timur,Cipinang,1,1,2,33.0,51000000
+cepc013,Jakarta Barat,Tanjung Duren,1,1,2,87.0,200000000
+kmva009,Jakarta Selatan,Kemang,1,1,0,43.0,150000000
+gprc141,Jakarta Pusat,Cempaka Putih,0,1,2,33.0,43500000
+pugd005,Jakarta Barat,Kembangan,1,2,3,71.0,80000000
+thrc019,Jakarta Pusat,Thamrin,1,1,2,58.0,126000000
+sscc008,Jakarta Barat,Grogol,1,1,2,48.0,55000000
+gklb008,Bekasi,Pekayon,1,1,1,35.0,40000000
+cagc059,Jakarta Selatan,Casablanca,1,2,2,76.0,204000000
+grpc024,Jakarta Selatan,Kalibata,1,1,2,36.0,61000000
+thrb009,Jakarta Pusat,Thamrin,1,1,1,42.0,85000000
+ssrc026,Jakarta Pusat,Sudirman,1,1,2,70.0,200050000
+gdic032,Jakarta Timur,Kelapa Gading,1,1,2,43.0,27500000
+mppc009,Jakarta Utara,Sunter,1,1,2,49.0,59800000
+esdd031,Jakarta Selatan,Dharmawangsa,1,3,3,136.0,240000000
+ppvc047,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,42000000
+mg1c008,Jakarta Barat,Tanjung Duren,1,1,2,42.0,43000000
+tmkf002,Jakarta Selatan,Kemang,1,3,3,242.0,562800000
+mepa099,Jakarta Pusat,Menteng,1,1,0,28.0,65000000
+kmvc017,Jakarta Selatan,Kemang,1,1,2,124.0,264600000
+mg2c120,Jakarta Barat,Tanjung Duren,1,1,2,42.0,57000000
+cagb011,Jakarta Selatan,Casablanca,1,1,1,50.0,170100000
+mlkd012,Jakarta Pusat,Kemayoran,1,3,3,97.0,98000000
+thrc029,Jakarta Pusat,Thamrin,1,1,2,52.0,108000000
+mepc064,Jakarta Pusat,Menteng,1,1,2,64.0,120000000
+tmbb159,Jakarta Pusat,Kemayoran,0,1,1,50.0,59800000
+mepc042,Jakarta Pusat,Menteng,1,1,2,61.0,166800000
+csaa001,Jakarta Pusat,Menteng,1,1,0,36.0,110400000
+supd005,Jakarta Pusat,Sudirman,1,1,3,80.0,156000000
+gbpc099,Jakarta Utara,Pluit,1,1,2,37.0,39000000
+gcpc011,Bekasi,Pekayon,1,1,2,36.0,55000000
+stmc025,Jakarta Barat,Puri Indah,1,1,2,84.0,180000000
+jkrd004,Jakarta Pusat,Thamrin,1,2,3,88.0,132000000
+tmjc095,Jakarta Pusat,Kemayoran,1,1,2,74.0,75000000
+pktf018,Jakarta Selatan,Kebayoran Lama,1,1,0,22.0,39000000
+tnac019,Tangerang,Karang Tengah,0,1,2,44.0,37000000
+btvb008,Jakarta Pusat,Bendungan Hilir,1,1,1,43.0,90000000
+tmjc123,Jakarta Pusat,Kemayoran,0,1,2,73.0,50000000
+htpc016,Jakarta Selatan,Pondok Indah,1,2,2,82.0,180000000
+thrc037,Jakarta Pusat,Thamrin,1,2,2,124.0,168000000
+spvc024,Jakarta Utara,Sunter,1,1,2,35.0,33000000
+cepc007,Jakarta Barat,Tanjung Duren,1,2,2,82.0,125000000
+ssca036,Jakarta Barat,Grogol,1,1,0,31.0,31000000
+prmc006,Jakarta Selatan,Kuningan,1,3,2,148.0,195600000
+apla009,Tangerang,Serpong,1,1,0,22.0,35000000
+blmb028,Jakarta Barat,Kebon Jeruk,1,1,1,34.0,46000000
+esdd005,Jakarta Selatan,Dharmawangsa,1,2,3,136.0,264600000
+skla004,Tangerang,Karang Tengah,0,1,0,24.0,26400000
+ockb001,Bekasi,Cikarang,1,1,1,44.0,95000000
+mmac018,Jakarta Utara,Ancol,1,2,2,90.0,85000000
+anmd004,Jakarta Utara,Ancol,0,2,3,189.0,200000000
+lvnc037,Jakarta Selatan,Pancoran,1,2,2,106.0,216000000
+thrd001,Jakarta Pusat,Thamrin,1,2,3,86.0,204000000
+urka013,Tangerang,Karawaci,1,1,0,33.0,50000000
+anmc002,Jakarta Utara,Ancol,1,1,2,121.0,150000000
+sipa001,Jakarta Selatan,Tebet,1,1,0,23.0,60000000
+btvd004,Jakarta Pusat,Bendungan Hilir,1,3,3,185.0,300000000
+trsc099,Jakarta Barat,Tanjung Duren,1,1,2,65.0,109000000
+trsa041,Jakarta Barat,Tanjung Duren,0,1,0,26.0,47000000
+mesc026,Jakarta Pusat,Menteng,1,1,2,30.0,41000000
+splc007,Bekasi,Summarecon Bekasi,1,1,2,54.0,50000000
+gdic045,Jakarta Timur,Kelapa Gading,1,1,2,42.0,35000000
+sscb014,Jakarta Barat,Grogol,1,1,1,32.0,40000000
+tnac022,Tangerang,Karang Tengah,0,1,2,46.0,27000000
+thrc024,Jakarta Pusat,Thamrin,1,1,2,65.0,132000000
+mprc030,Jakarta Barat,Kedoya,1,1,2,53.0,70000000
+bscb043,Jakarta Timur,Cipinang,1,1,1,26.0,52000000
+tmjc169,Jakarta Pusat,Kemayoran,1,1,2,62.0,76000000
+mepa103,Jakarta Pusat,Menteng,1,1,0,28.0,75000000
+tmbb148,Jakarta Pusat,Kemayoran,1,1,1,33.0,39000000
+mepa089,Jakarta Pusat,Menteng,1,1,0,28.0,84000000
+tssa013,Jakarta Selatan,Semanggi,1,1,0,35.0,72000000
+ganc024,Jakarta Utara,Kelapa Gading,1,1,2,29.0,30000000
+mrsc005,Tangerang,Serpong,1,1,2,45.0,50000000
+gpvc041,Jakarta Barat,Cengkareng,1,1,2,34.0,35000000
+skwb003,Tangerang,Serpong,1,1,1,49.0,50000000
+pcvc003,Jakarta Selatan,Lebak Bulus,1,2,2,100.0,216000000
+psvd005,Jakarta Utara,Pluit,0,2,3,56.0,25000000
+cepb014,Jakarta Barat,Tanjung Duren,1,1,1,45.0,90000000
+mgda003,Depok,Margonda,1,1,0,22.0,33500000
+sphc015,Jakarta Pusat,Kemayoran,1,1,2,60.0,80000000
+sgpa011,Jakarta Timur,MT Haryono,1,1,0,26.0,54000000
+glsc013,Jakarta Utara,Sunter,0,1,2,42.0,30000000
+sgpa004,Jakarta Timur,MT Haryono,0,1,0,26.0,45000000
+aspc012,Jakarta Selatan,Fatmawati,1,2,2,54.0,97450000
+calb022,Jakarta Timur,Kelapa Gading,0,1,1,69.0,50000000
+ppvc102,Jakarta Barat,Kebon Jeruk,0,1,2,35.0,27000000
+tmkb020,Jakarta Selatan,Kemang,1,1,1,87.0,140000000
+ssud006,Jakarta Pusat,Bendungan Hilir,1,1,3,73.0,515970000
+thrb053,Jakarta Pusat,Thamrin,1,1,1,41.0,96000000
+gklc001,Bekasi,Pekayon,1,1,2,65.0,90000000
+tmbb065,Jakarta Pusat,Kemayoran,0,1,1,64.0,78000000
+n-d0001,Jakarta Selatan,Kemang,1,3,3,198.0,421200000
+gmmc004,Jakarta Barat,Gajah Mada,1,1,2,45.0,52000000
+bpva008,Jakarta Selatan,Bintaro,1,1,0,22.0,42000000
+taad002,Jakarta Barat,Tanjung Duren,1,2,3,146.0,180000000
+gprb014,Jakarta Pusat,Cempaka Putih,1,1,1,33.0,54000000
+ganc023,Jakarta Utara,Kelapa Gading,1,1,2,36.0,18900000
+sipc008,Jakarta Selatan,Tebet,1,1,2,38.0,75600000
+gdic031,Jakarta Timur,Kelapa Gading,1,1,2,36.0,25000000
+pgva005,Depok,Cimanggis,1,1,0,21.0,35000000
+pucb008,Jakarta Barat,Cengkareng,1,1,1,35.0,47000000
+wpra008,Jakarta Selatan,Kalibata,1,1,0,29.0,55200000
+bmsb003,Jakarta Selatan,Fatmawati,1,1,1,45.0,80000000
+taab004,Jakarta Barat,Tanjung Duren,1,2,1,85.0,98000000
+csbb017,Jakarta Selatan,Casablanca,1,1,1,80.0,180000000
+mg2c112,Jakarta Barat,Tanjung Duren,1,1,2,42.0,56000000
+kmva043,Jakarta Selatan,Kemang,1,1,0,43.0,144000000
+gwrc004,Jakarta Barat,Kebon Jeruk,0,2,2,86.0,120000000
+thrb072,Jakarta Pusat,Thamrin,1,1,1,41.0,72000000
+kmva037,Jakarta Selatan,Kemang,1,1,0,43.0,150000000
+pucc019,Jakarta Barat,Cengkareng,1,1,2,50.0,60000000
+narc005,Jakarta Utara,Ancol,1,1,2,41.0,55000000
+sphc035,Jakarta Pusat,Kemayoran,0,1,2,58.0,65000000
+sphc014,Jakarta Pusat,Kemayoran,1,2,2,60.0,75000000
+ppvc238,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,35000000
+mpra065,Jakarta Barat,Kedoya,1,1,0,28.0,42000000
+ptpc001,Jakarta Timur,Cawang,1,1,2,45.0,66000000
+apla015,Tangerang,Serpong,1,1,0,23.0,36000000
+r-c0001,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,34000000
+cptb002,Jakarta Pusat,Salemba,1,1,1,25.0,55000000
+stmc021,Jakarta Barat,Puri Indah,1,1,2,84.0,156000000
+kucb020,Jakarta Selatan,Kuningan,1,1,1,48.0,144000000
+gprc062,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,48000000
+crwc017,Jakarta Selatan,Kuningan,1,2,2,113.0,270000000
+sgpc031,Jakarta Timur,MT Haryono,1,1,2,50.0,90000000
+ppva051,Jakarta Barat,Kebon Jeruk,1,1,0,21.0,35000000
+trsc046,Jakarta Barat,Tanjung Duren,0,1,2,44.0,85000000
+glsc002,Jakarta Utara,Sunter,1,1,2,42.0,55000000
+mapb034,Jakarta Barat,Tanjung Duren,1,1,1,28.0,55000000
+mepc037,Jakarta Pusat,Menteng,1,1,2,63.0,220350000
+gdic029,Jakarta Timur,Kelapa Gading,1,1,2,36.0,25000000
+gdbb006,Jakarta Selatan,Pejaten,1,1,1,34.0,60050000
+brob006,Tangerang,Alam Sutera,1,1,1,45.0,65000000
+blma050,Jakarta Barat,Kebon Jeruk,1,1,0,22.0,38000000
+blgb005,Jakarta Selatan,Kuningan,1,1,1,60.0,156000000
+mwfc001,Jakarta Selatan,Setiabudi,1,2,2,88.0,300000000
+lvdf006,Jakarta Selatan,Tebet,1,1,1,33.0,71750000
+epsc019,Jakarta Pusat,Gunung Sahari,1,1,2,42.0,55000000
+pktc026,Jakarta Selatan,Kebayoran Lama,1,1,2,39.0,55000000
+gprc165,Jakarta Pusat,Cempaka Putih,0,1,2,33.0,39000000
+spvc033,Jakarta Utara,Sunter,1,1,2,35.0,35000000
+lvnb003,Jakarta Selatan,Pancoran,1,1,1,58.0,142200000
+mapb005,Jakarta Barat,Tanjung Duren,0,1,1,27.0,35000000
+gmmd001,Jakarta Barat,Gajah Mada,1,1,3,65.0,60000000
+adyc003,Tangerang,Cikokol,1,1,2,39.0,53000000
+blma002,Jakarta Barat,Kebon Jeruk,1,1,0,22.0,40000000
+sphd003,Jakarta Pusat,Kemayoran,1,2,3,73.0,90000000
+trsb068,Jakarta Barat,Tanjung Duren,1,1,1,38.0,65500000
+tnsc001,Jakarta Timur,Pasar Rebo,1,1,2,32.0,55000000
+blma104,Jakarta Barat,Kebon Jeruk,1,1,0,21.0,33000000
+thrd002,Jakarta Pusat,Thamrin,1,2,3,86.0,216000000
+stmd038,Jakarta Barat,Puri Indah,1,3,3,148.0,270000000
+wprc007,Jakarta Selatan,Kalibata,1,1,2,56.0,91200000
+gmrc010,Jakarta Utara,Kelapa Gading,1,1,2,42.0,47000000
+mepa006,Jakarta Pusat,Menteng,1,1,0,28.0,69000000
+sphd008,Jakarta Pusat,Kemayoran,1,2,3,101.0,125000000
+mg1c098,Jakarta Barat,Tanjung Duren,1,1,2,40.0,40000000
+mg2c122,Jakarta Barat,Tanjung Duren,1,1,2,42.0,52000000
+mpkc003,Jakarta Pusat,Kemayoran,1,1,2,36.0,47000000
+sscb005,Jakarta Barat,Grogol,1,1,1,28.0,36000000
+pmna001,Jakarta Barat,Kalideres,0,1,0,25.0,25000000
+ssub001,Jakarta Pusat,Bendungan Hilir,1,1,1,64.0,260000000
+tssb035,Jakarta Selatan,Semanggi,1,1,1,55.0,96000000
+pvlf001,Jakarta Pusat,Sudirman,1,2,2,115.0,286900000
+re8b018,Jakarta Selatan,Senopati,1,1,1,76.0,274000000
+ppvc089,Jakarta Barat,Kebon Jeruk,0,1,2,35.0,24000000
+spca001,Jakarta Selatan,Pancoran,0,2,0,102.0,220000000
+pktf019,Jakarta Selatan,Kebayoran Lama,1,1,2,38.0,60000000
+pumb013,Jakarta Barat,Puri Indah,1,1,1,37.0,40000000
+taac062,Jakarta Barat,Tanjung Duren,1,1,2,88.0,90000000
+kucb011,Jakarta Selatan,Kuningan,1,1,1,59.0,156000000
+merc001,Jakarta Selatan,Cilandak,1,2,2,180.0,218400000
+tssc002,Jakarta Selatan,Semanggi,1,1,2,72.0,180000000
+gprc129,Jakarta Pusat,Cempaka Putih,1,1,2,34.0,65200000
+rmgc013,Jakarta Barat,Tanjung Duren,1,1,2,53.0,85000000
+trsc074,Jakarta Barat,Tanjung Duren,1,1,2,50.0,88000000
+mg1b018,Jakarta Barat,Tanjung Duren,1,1,1,30.0,30000000
+apla019,Tangerang,Serpong,0,1,0,28.0,21000000
+1pac007,Jakarta Selatan,Gandaria,1,2,2,91.0,291060000
+mmac017,Jakarta Utara,Ancol,1,1,2,50.0,45000000
+gkla017,Bekasi,Pekayon,0,1,0,36.0,44400000
+moic023,Jakarta Utara,Kelapa Gading,1,1,2,45.0,60000000
+aspc013,Jakarta Selatan,Fatmawati,1,1,2,47.73,96000000
+urkf003,Tangerang,Karawaci,1,1,0,35.0,50000000
+kucc038,Jakarta Selatan,Kuningan,1,1,2,60.0,150000000
+blgd021,Jakarta Selatan,Kuningan,1,3,3,108.0,299880000
+puca015,Jakarta Barat,Cengkareng,1,1,0,26.0,35000000
+atzc002,Tangerang,Bintaro,1,1,2,40.0,60000000
+taad018,Jakarta Barat,Tanjung Duren,1,2,3,146.0,165000000
+ppvc180,Jakarta Barat,Kebon Jeruk,0,1,2,36.0,24000000
+gprc014,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,60000000
+gprc167,Jakarta Pusat,Cempaka Putih,0,1,2,33.0,30000000
+trsc054,Jakarta Barat,Tanjung Duren,0,1,2,50.0,72000000
+cepb027,Jakarta Barat,Tanjung Duren,1,1,1,44.0,100000000
+scsb002,Tangerang,Serpong,1,1,1,35.0,38000000
+sipc021,Jakarta Selatan,Tebet,1,1,2,38.0,77950000
+esdc004,Jakarta Selatan,Dharmawangsa,1,1,2,71.0,226800000
+pryc004,Jakarta Pusat,Gatot Subroto,1,1,2,95.0,210000000
+trsa015,Jakarta Barat,Tanjung Duren,0,1,0,26.0,56000000
+spvc053,Jakarta Utara,Sunter,1,1,2,35.0,37900000
+mppa014,Jakarta Utara,Sunter,0,1,0,23.0,22000000
+pktc027,Jakarta Selatan,Kebayoran Lama,1,1,2,39.0,75000000
+tmjc079,Jakarta Pusat,Kemayoran,1,1,2,70.0,75000000
+cagd004,Jakarta Selatan,Casablanca,1,2,3,117.0,307800000
+lxtb001,Jakarta Selatan,Bintaro,1,1,1,53.0,120000000
+stra001,Jakarta Timur,Cakung,1,1,0,25.0,24000000
+aspd009,Jakarta Selatan,Fatmawati,1,2,3,84.0,192000000
+glva012,Tangerang,Ciputat,1,1,0,21.0,28000000
+clsc007,Jakarta Pusat,Sudirman,1,2,2,108.0,250000000
+crwa002,Jakarta Selatan,Kuningan,1,1,0,60.0,140000000
+puca016,Jakarta Barat,Cengkareng,0,1,0,26.0,25000000
+ppvb015,Jakarta Barat,Kebon Jeruk,1,1,1,35.0,44400000
+clsb011,Jakarta Pusat,Sudirman,1,1,1,106.0,240000000
+prya003,Jakarta Pusat,Gatot Subroto,1,1,0,36.0,78000000
+c-d0001,Jakarta Selatan,Kuningan,1,2,3,125.0,363700000
+ppvc086,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,42000000
+tmbb103,Jakarta Pusat,Kemayoran,1,1,1,29.0,60000000
+trsd020,Jakarta Barat,Tanjung Duren,0,2,3,65.0,131000000
+gpla005,Jakarta Barat,Duri Kosambi,0,1,0,21.0,15000000
+esdc026,Jakarta Selatan,Dharmawangsa,1,1,2,71.0,156000000
+thrc055,Jakarta Pusat,Thamrin,1,1,2,60.0,108000000
+htpc069,Jakarta Selatan,Pondok Indah,1,1,2,56.0,132000000
+nfrd001,Jakarta Selatan,Pasar Minggu,1,2,3,77.0,124000000
+gana003,Jakarta Utara,Kelapa Gading,1,1,0,21.0,22000000
+aspd012,Jakarta Selatan,Fatmawati,1,2,3,102.0,126000000
+brzb003,Tangerang,BSD City,1,1,1,48.0,108000000
+sipc009,Jakarta Selatan,Tebet,1,1,2,38.0,94500000
+mepb020,Jakarta Pusat,Menteng,1,1,1,28.0,70000000
+ganc040,Jakarta Utara,Kelapa Gading,0,1,2,36.0,21750000
+bscc095,Jakarta Timur,Cipinang,1,1,2,34.0,54000000
+terb008,Jakarta Pusat,Thamrin,1,1,1,43.0,120000000
+mepa019,Jakarta Pusat,Menteng,1,1,0,28.0,72000000
+mprc122,Jakarta Barat,Kedoya,1,1,2,54.0,60000000
+ssub002,Jakarta Pusat,Bendungan Hilir,1,1,1,46.3,228000000
+mg1c054,Jakarta Barat,Tanjung Duren,1,1,2,42.0,45000000
+cagc008,Jakarta Selatan,Casablanca,1,2,2,84.0,243000000
+terb001,Jakarta Pusat,Thamrin,1,1,1,42.0,90000000
+rmgc049,Jakarta Barat,Tanjung Duren,1,1,2,54.0,80000000
+lvnb001,Jakarta Selatan,Pancoran,1,1,1,63.0,144000000
+gprc078,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,50000000
+epac005,Jakarta Timur,Jatinegara,0,1,2,36.0,19000000
+spla018,Bekasi,Summarecon Bekasi,0,1,0,26.0,16000000
+grpc026,Jakarta Selatan,Kalibata,1,1,2,34.0,50000000
+kgca009,Jakarta Selatan,Kebagusan,1,1,0,27.0,48000000
+gdic012,Jakarta Timur,Kelapa Gading,1,1,2,36.0,24500000
+gana010,Jakarta Utara,Kelapa Gading,1,1,0,21.0,22800000
+blmc005,Jakarta Barat,Kebon Jeruk,1,1,2,41.0,65000000
+pcsd002,Jakarta Selatan,Casablanca,1,2,3,110.0,218400000
+ssca012,Jakarta Barat,Grogol,0,1,0,31.0,25000000
+aspc008,Jakarta Selatan,Fatmawati,1,2,2,54.0,98000000
+bscc223,Jakarta Timur,Cipinang,1,1,2,34.0,55000000
+mord003,Jakarta Pusat,Senen,1,3,3,114.0,120000000
+htpc070,Jakarta Selatan,Pondok Indah,1,2,2,84.0,132000000
+pucb179,Jakarta Barat,Cengkareng,0,1,1,35.0,30000000
+taad016,Jakarta Barat,Tanjung Duren,1,2,3,146.0,140000000
+gkla004,Bekasi,Pekayon,1,1,0,27.0,40000000
+sphc018,Jakarta Pusat,Kemayoran,1,1,2,60.0,80000000
+tmbc093,Jakarta Pusat,Kemayoran,0,1,2,51.0,60000000
+pucb072,Jakarta Barat,Cengkareng,0,1,1,35.0,33000000
+csmd019,Jakarta Selatan,Casablanca,1,2,3,76.0,122700000
+pucb043,Jakarta Barat,Cengkareng,1,1,1,35.0,45000000
+tard023,Jakarta Selatan,Kuningan,0,3,3,96.0,80000000
+parb031,Jakarta Selatan,Pancoran,0,1,1,31.0,32400000
+puca144,Jakarta Barat,Cengkareng,1,1,0,26.0,35800000
+supc038,Jakarta Pusat,Sudirman,1,1,2,48.0,84000000
+bvtc003,Jakarta Selatan,Cilandak,0,3,2,85.0,132000000
+mprc129,Jakarta Barat,Kedoya,1,1,2,58.0,70000000
+cagc007,Jakarta Selatan,Casablanca,1,2,2,100.0,324000000
+mpra133,Jakarta Barat,Kedoya,1,1,0,28.0,45000000
+tera004,Jakarta Pusat,Thamrin,1,1,0,28.0,84000000
+sgpa006,Jakarta Timur,MT Haryono,1,1,0,25.0,50000000
+skgc025,Jakarta Selatan,Setiabudi,1,1,2,79.0,300000000
+mg2d015,Jakarta Barat,Tanjung Duren,1,2,3,70.0,100000000
+trsb097,Jakarta Barat,Tanjung Duren,1,1,1,38.0,82000000
+tbbb001,Jakarta Selatan,Bintaro,1,1,1,34.0,70000000
+shld003,Jakarta Selatan,Kuningan,1,2,3,143.0,388080000
+adyd001,Tangerang,Cikokol,0,2,3,64.0,45000000
+blzb009,Jakarta Selatan,Permata Hijau,1,1,1,68.0,120000000
+mg2c047,Jakarta Barat,Tanjung Duren,1,1,2,42.0,50000000
+tfla024,Jakarta Timur,Pulomas,1,1,0,21.0,35000000
+sgvc008,Tangerang,Serpong,1,1,2,39.0,45000000
+gpkc004,Jakarta Pusat,Kemayoran,1,1,2,60.0,72000000
+bscd058,Jakarta Timur,Cipinang,1,1,3,45.0,80000000
+gbpc067,Jakarta Utara,Pluit,1,2,2,82.0,115000000
+thrc042,Jakarta Pusat,Thamrin,1,1,2,65.0,120000000
+retc008,Jakarta Pusat,Pecenongan,1,2,2,106.0,90000000
+spla011,Bekasi,Summarecon Bekasi,1,1,0,21.0,22000000
+tkkd002,Jakarta Pusat,Kemayoran,1,2,3,115.0,115000000
+tmma013,Depok,Margonda,1,1,0,21.0,36000000
+cepb019,Jakarta Barat,Tanjung Duren,1,1,1,44.0,92000000
+epac001,Jakarta Timur,Jatinegara,1,1,2,33.0,24000000
+spvc062,Jakarta Utara,Sunter,1,1,2,35.0,35000000
+cdpa018,Tangerang,BSD City,1,1,0,22.0,35000000
+bscc127,Jakarta Timur,Cipinang,0,1,2,34.0,75000000
+adya008,Tangerang,Cikokol,1,1,0,23.5,30000000
+gcab005,Jakarta Utara,Pantai Indah Kapuk,1,1,1,51.0,85000000
+strc008,Jakarta Timur,Cakung,1,1,2,36.0,33500000
+tmbb050,Jakarta Pusat,Kemayoran,0,1,1,41.0,60000000
+mg2c100,Jakarta Barat,Tanjung Duren,1,1,2,42.0,58000000
+kucc005,Jakarta Selatan,Kuningan,1,1,2,60.0,178200000
+ppva035,Jakarta Barat,Kebon Jeruk,1,1,0,22.0,35000000
+stcd002,Jakarta Selatan,Sudirman,1,2,3,100.0,243100000
+lvdf002,Jakarta Selatan,Tebet,1,1,2,56.0,92000000
+rorc009,Jakarta Selatan,Pejaten,1,1,2,52.0,96000000
+tmkb034,Jakarta Selatan,Kemang,1,1,1,87.0,192000000
+gpra093,Jakarta Pusat,Cempaka Putih,1,1,0,26.0,36000000
+kucb012,Jakarta Selatan,Kuningan,1,1,1,48.0,132000000
+svcb001,Jakarta Utara,Pluit,1,1,1,42.0,70000000
+mr5a001,Depok,Margonda,1,1,0,24.0,32500000
+pkhc003,Jakarta Selatan,Kebayoran Baru,1,1,2,129.0,306000000
+swra003,Tangerang,Cikokol,0,1,0,22.5,35000000
+mmac013,Jakarta Utara,Ancol,1,1,2,48.0,60000000
+htpc043,Jakarta Selatan,Pondok Indah,1,1,2,60.0,105000000
+blzc007,Jakarta Selatan,Permata Hijau,1,2,2,122.0,194850000
+stmc031,Jakarta Barat,Puri Indah,1,1,2,96.0,180000000
+clsb003,Jakarta Pusat,Sudirman,0,1,1,85.0,250000000
+sscc024,Jakarta Barat,Grogol,0,1,2,45.0,40000000
+stcd016,Jakarta Selatan,Sudirman,1,2,3,110.0,204000000
+gppa003,Jakarta Pusat,Slipi,1,1,0,29.0,90000000
+sgpc010,Jakarta Timur,MT Haryono,0,1,2,43.0,60000000
+moic033,Jakarta Utara,Kelapa Gading,1,1,2,45.0,65000000
+lvda003,Jakarta Selatan,Tebet,1,1,0,30.0,80000000
+gpra094,Jakarta Pusat,Cempaka Putih,0,1,0,21.0,32400000
+nhjc001,Jakarta Selatan,Pondok Indah,1,2,2,135.0,300000000
+lvdc018,Jakarta Selatan,Tebet,1,1,2,58.0,96000000
+mesc048,Jakarta Pusat,Menteng,0,1,2,33.0,50000000
+lvnb009,Jakarta Selatan,Pancoran,1,1,1,63.0,120000000
+absd002,Jakarta Selatan,Kuningan,1,2,3,89.0,192000000
+mapb020,Jakarta Barat,Tanjung Duren,1,1,1,29.0,55000000
+mtrb002,Jakarta Pusat,Menteng,1,1,1,74.0,198000000
+cagc061,Jakarta Selatan,Casablanca,1,2,2,74.0,200000000
+mg1c206,Jakarta Barat,Tanjung Duren,1,1,2,40.0,43000000
+aspc002,Jakarta Selatan,Fatmawati,1,2,2,83.0,179000000
+tmkb017,Jakarta Selatan,Kemang,1,1,1,87.0,144000000
+pcsc007,Jakarta Selatan,Casablanca,1,2,2,93.0,168000000
+lxtc003,Jakarta Selatan,Bintaro,0,2,2,80.0,90000000
+mpra050,Jakarta Barat,Kedoya,1,1,0,27.0,37000000
+grka011,Jakarta Pusat,Mangga Besar,1,1,0,25.0,36750000
+kgcc036,Jakarta Selatan,Kebagusan,1,1,2,50.0,55300000
+srwc001,Jakarta Utara,Kelapa Gading,1,2,2,110.0,135000000
+brzb010,Tangerang,BSD City,1,1,1,43.0,80000000
+tbba004,Jakarta Selatan,Bintaro,0,1,0,24.0,50000000
+gprc038,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,53000000
+wgpc015,Jakarta Utara,Kelapa Gading,1,1,2,37.0,31000000
+broc002,Tangerang,Alam Sutera,1,1,2,67.0,88000000
+taac090,Jakarta Barat,Tanjung Duren,1,2,2,88.0,110000000
+cagc009,Jakarta Selatan,Casablanca,1,2,2,84.0,240000000
+as1d002,Jakarta Selatan,Kuningan,1,2,3,135.0,180000000
+mpkc002,Jakarta Pusat,Kemayoran,1,1,2,37.0,63000000
+adya012,Tangerang,Cikokol,0,1,0,23.0,12000000
+mapb006,Jakarta Barat,Tanjung Duren,1,1,1,35.0,65000000
+taac046,Jakarta Barat,Tanjung Duren,1,1,2,88.0,85000000
+mqrc010,Jakarta Barat,Kebon Jeruk,1,2,2,76.0,85000000
+snya003,Jakarta Selatan,Kebayoran Lama,1,1,0,35.0,193200000
+atzc003,Tangerang,Bintaro,1,1,2,40.0,58000000
+jkrc007,Jakarta Pusat,Thamrin,1,1,2,50.0,100800000
+pucb011,Jakarta Barat,Cengkareng,0,1,1,35.0,35000000
+lvnc042,Jakarta Selatan,Pancoran,1,2,2,99.0,160000000
+gprc117,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,57500000
+narb008,Jakarta Utara,Ancol,1,1,1,31.0,40000000
+scrf005,Jakarta Selatan,Senayan,1,3,3,169.0,286900000
+sphc027,Jakarta Pusat,Kemayoran,1,1,2,60.0,75000000
+kucc041,Jakarta Selatan,Kuningan,1,1,2,65.0,204000000
+tcrd005,Jakarta Selatan,SCBD,1,2,3,170.0,599400000
+puca052,Jakarta Barat,Cengkareng,1,1,0,26.0,60000000
+crda009,Depok,Cinere,1,1,0,21.0,19500000
+pvca004,Depok,Margonda,1,1,0,30.0,45000000
+moic013,Jakarta Utara,Kelapa Gading,1,1,2,45.0,49000000
+mqrd008,Jakarta Barat,Kebon Jeruk,0,3,3,138.0,120000000
+bdcb004,Jakarta Barat,Duri Kosambi,1,1,1,32.0,30000000
+esde003,Jakarta Selatan,Dharmawangsa,1,3,4,167.0,285800000
+mg2c086,Jakarta Barat,Tanjung Duren,1,1,2,42.0,45000000
+crwc028,Jakarta Selatan,Kuningan,1,1,2,86.0,240000000
+trsa094,Jakarta Barat,Tanjung Duren,1,1,0,26.0,50000000
+gppc009,Jakarta Pusat,Slipi,1,1,2,46.0,96000000
+r-b0001,Jakarta Pusat,Thamrin,1,1,1,40.0,94000000
+mepa088,Jakarta Pusat,Menteng,1,1,0,33.0,84000000
+intb001,Tangerang,BSD City,1,1,1,38.0,90000000
+moic038,Jakarta Utara,Kelapa Gading,1,1,2,45.0,63000000
+gprc132,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,49000000
+tflc035,Jakarta Timur,Pulomas,0,1,2,43.0,28000000
+mmac020,Jakarta Utara,Ancol,1,1,2,48.0,60000000
+trsc130,Jakarta Barat,Tanjung Duren,0,1,2,50.0,60000000
+htpc007,Jakarta Selatan,Pondok Indah,1,1,2,58.0,178250000
+tmka007,Jakarta Selatan,Kemang,1,1,0,60.0,144000000
+trsd006,Jakarta Barat,Tanjung Duren,0,2,3,135.0,155000000
+bscc251,Jakarta Timur,Cipinang,1,1,2,34.0,46500000
+gplc005,Jakarta Barat,Duri Kosambi,1,1,2,36.0,43000000
+taac039,Jakarta Barat,Tanjung Duren,1,1,2,88.0,100000000
+grkc001,Jakarta Pusat,Mangga Besar,1,1,2,42.0,55000000
+gghc018,Jakarta Utara,Kelapa Gading,1,1,2,43.0,48000000
+tbvb008,Jakarta Pusat,Tanah Abang,1,1,1,45.0,90000000
+trsb038,Jakarta Barat,Tanjung Duren,1,1,1,38.0,68000000
+asrc002,Jakarta Selatan,Kuningan,1,2,2,80.0,144000000
+tmbc034,Jakarta Pusat,Kemayoran,1,1,2,62.0,80000000
+tnac005,Tangerang,Karang Tengah,1,1,2,45.0,40000000
+ppvc198,Jakarta Barat,Kebon Jeruk,1,1,2,32.0,43300000
+mesb001,Jakarta Pusat,Menteng,1,1,1,33.0,54100000
+pucb134,Jakarta Barat,Cengkareng,0,1,1,35.0,35000000
+supc036,Jakarta Pusat,Sudirman,1,1,2,48.0,100200000
+tmbb186,Jakarta Pusat,Kemayoran,1,1,1,29.0,40000000
+absa004,Jakarta Selatan,Kuningan,1,1,0,32.0,110000000
+ptpc002,Jakarta Timur,Cawang,1,1,2,40.0,44000000
+tnac018,Tangerang,Karang Tengah,0,1,2,44.2,35000000
+htpc010,Jakarta Selatan,Pondok Indah,1,2,2,92.0,243000000
+wdsc004,Jakarta Barat,Puri Indah,1,2,2,113.0,250000000
+ppvc103,Jakarta Barat,Kebon Jeruk,0,1,2,35.0,24000000
+bscb085,Jakarta Timur,Cipinang,0,1,1,28.0,38400000
+thrc038,Jakarta Pusat,Thamrin,1,2,2,124.0,168000000
+csmd006,Jakarta Selatan,Casablanca,1,2,3,74.0,126000000
+mprc028,Jakarta Barat,Kedoya,0,1,2,53.0,42000000
+shlc005,Jakarta Selatan,Kuningan,0,2,2,87.0,230000000
+mepa029,Jakarta Pusat,Menteng,1,1,0,33.0,77950000
+bscc202,Jakarta Timur,Cipinang,1,1,2,34.0,70700000
+pukb003,Jakarta Pusat,Kemayoran,1,1,1,50.0,40000000
+gprc028,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,50000000
+mg2c052,Jakarta Barat,Tanjung Duren,1,1,2,42.0,55000000
+tmbc074,Jakarta Pusat,Kemayoran,0,1,2,49.0,50000000
+puca023,Jakarta Barat,Cengkareng,0,1,0,26.0,22000000
+pucc029,Jakarta Barat,Cengkareng,0,2,2,73.0,83000000
+sgpa024,Jakarta Timur,MT Haryono,1,1,0,25.0,54000000
+gccc007,Jakarta Barat,Gajah Mada,1,1,2,60.0,75000000
+mppb010,Jakarta Utara,Sunter,0,1,1,33.0,30000000
+mpkc020,Jakarta Pusat,Kemayoran,0,1,2,36.0,40000000
+blmb001,Jakarta Barat,Kebon Jeruk,1,1,1,36.0,42000000
+pucb096,Jakarta Barat,Cengkareng,1,1,1,35.0,42000000
+kmvc061,Jakarta Selatan,Kemang,1,2,2,130.0,324000000
+rmgd011,Jakarta Barat,Tanjung Duren,1,2,3,110.0,195000000
+18rb014,Jakarta Selatan,Rasuna Said,1,1,1,45.0,70000000
+shob012,Jakarta Barat,Tanjung Duren,1,2,1,89.0,130000000
+mpra035,Jakarta Barat,Kedoya,1,1,0,27.0,40000000
+strb009,Jakarta Timur,Cakung,1,1,1,30.0,22000000
+mg2c153,Jakarta Barat,Tanjung Duren,1,1,2,42.0,75600000
+pucb158,Jakarta Barat,Cengkareng,1,1,1,35.0,48750000
+gprc043,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,45000000
+ppva022,Jakarta Barat,Kebon Jeruk,0,1,0,22.0,21000000
+pmnc001,Jakarta Barat,Kalideres,1,1,2,44.0,70700000
+epsc014,Jakarta Pusat,Gunung Sahari,1,1,2,41.0,65000000
+bscc317,Jakarta Timur,Cipinang,1,1,2,34.0,60000000
+rmga006,Jakarta Barat,Tanjung Duren,1,1,0,30.0,60000000
+spcc001,Jakarta Selatan,Pancoran,0,1,2,102.0,420000000
+gprc031,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,55000000
+kpcc001,Jakarta Selatan,Kuningan,1,2,2,75.0,168000000
+tmbc080,Jakarta Pusat,Kemayoran,0,1,2,60.0,50000000
+sipc025,Jakarta Selatan,Tebet,1,1,2,39.0,95000000
+mg1c067,Jakarta Barat,Tanjung Duren,1,1,2,41.0,45000000
+blma101,Jakarta Barat,Kebon Jeruk,1,1,0,21.0,30500000
+tmbc061,Jakarta Pusat,Kemayoran,0,1,2,49.0,75000000
+kgca018,Jakarta Selatan,Kebagusan,1,1,0,22.0,30400000
+gprc082,Jakarta Pusat,Cempaka Putih,0,1,2,33.0,35000000
+tnaa013,Tangerang,Karang Tengah,0,1,0,27.0,22000000
+jkrc004,Jakarta Pusat,Thamrin,1,1,2,50.0,132000000
+arkc001,Jakarta Selatan,Kemang,1,2,2,145.0,360000000
+18rc003,Jakarta Selatan,Rasuna Said,1,1,2,64.0,97450000
+stmc003,Jakarta Barat,Puri Indah,1,2,2,96.0,150000000
+tasa024,Jakarta Selatan,Sudirman,1,1,0,28.0,60000000
+bscc322,Jakarta Timur,Cipinang,1,2,2,34.0,59000000
+tmjc122,Jakarta Pusat,Kemayoran,0,1,2,76.0,50000000
+tmjc182,Jakarta Pusat,Kemayoran,1,0,2,73.0,125000000
+ppvb005,Jakarta Barat,Kebon Jeruk,1,1,1,35.0,45000000
+wvpa012,Jakarta Barat,Puri Indah,0,1,0,30.0,42000000
+thka001,Tangerang,Karawaci,1,1,0,30.0,27000000
+parc028,Jakarta Selatan,Pancoran,1,1,2,32.0,54000000
+pucb156,Jakarta Barat,Cengkareng,1,1,1,52.0,55000000
+mg2c162,Jakarta Barat,Tanjung Duren,1,1,2,44.0,59000000
+moic054,Jakarta Utara,Kelapa Gading,1,1,2,45.0,72000000
+grpd002,Jakarta Selatan,Kalibata,0,1,3,50.0,55000000
+makf004,Jakarta Selatan,Kemang,1,2,2,67.0,121400000
+gkla010,Bekasi,Pekayon,1,1,0,24.0,60000000
+1pac013,Jakarta Selatan,Gandaria,1,2,2,91.0,264600000
+bdcc001,Jakarta Barat,Duri Kosambi,1,2,2,63.0,48000000
+puca102,Jakarta Barat,Cengkareng,1,1,0,26.0,40050000
+grkb004,Jakarta Pusat,Mangga Besar,1,1,1,25.0,40000000
+narb004,Jakarta Utara,Ancol,0,1,1,31.0,35000000
+pktc036,Jakarta Selatan,Kebayoran Lama,1,1,2,49.0,75000000
+trsc126,Jakarta Barat,Tanjung Duren,1,1,2,50.0,80000000
+tssa005,Jakarta Selatan,Semanggi,1,1,0,33.0,72000000
+kvbc001,Bekasi,Pekayon,1,1,2,36.0,42000000
+tphd001,Jakarta Selatan,Permata Hijau,1,2,3,220.0,518400000
+cdrc001,Jakarta Pusat,Menteng,1,2,2,115.0,415000000
+re8c027,Jakarta Selatan,Senopati,1,1,2,94.0,216000000
+ppvc063,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,40000000
+cbsa009,Depok,Cinere,1,1,0,22.0,30000000
+gphd002,Jakarta Selatan,Permata Hijau,1,2,3,140.0,184000000
+gprc020,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,60000000
+klcc036,Jakarta Selatan,Pancoran,1,1,2,33.0,38000000
+taac034,Jakarta Barat,Tanjung Duren,1,1,2,88.0,110000000
+trsa050,Jakarta Barat,Tanjung Duren,0,1,0,26.0,38500000
+moic010,Jakarta Utara,Kelapa Gading,1,1,2,45.0,55000000
+gpra111,Jakarta Pusat,Cempaka Putih,1,1,1,21.0,35000000
+ppvc070,Jakarta Barat,Kebon Jeruk,0,1,2,35.0,25000000
+grpc046,Jakarta Selatan,Kalibata,1,1,2,35.0,54000000
+gphd010,Jakarta Selatan,Permata Hijau,1,3,3,140.0,259200000
+spvc029,Jakarta Utara,Sunter,1,1,2,35.0,33000000
+sscc056,Jakarta Barat,Grogol,1,1,2,55.0,60000000
+lvnb006,Jakarta Selatan,Pancoran,1,1,1,59.0,120000000
+tmbc044,Jakarta Pusat,Kemayoran,1,1,2,48.0,65000000
+tmbb121,Jakarta Pusat,Kemayoran,0,1,1,64.0,50000000
+ppvc132,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,45000000
+gpra083,Jakarta Pusat,Cempaka Putih,0,1,0,21.0,36000000
+btvb004,Jakarta Pusat,Bendungan Hilir,1,1,1,50.0,84000000
+svcc050,Jakarta Utara,Pluit,1,2,2,77.0,100000000
+pucb110,Jakarta Barat,Cengkareng,1,1,1,35.0,48000000
+puca079,Jakarta Barat,Cengkareng,1,1,0,23.0,33750000
+trsd041,Jakarta Barat,Tanjung Duren,1,1,3,65.0,130500000
+g-c0001,Jakarta Selatan,Setiabudi,1,2,2,76.0,312000000
+rsrd010,Jakarta Pusat,Kemayoran,0,2,3,192.0,165000000
+grpa003,Jakarta Selatan,Kalibata,1,1,0,21.0,30000000
+puca018,Jakarta Barat,Cengkareng,0,1,0,26.0,41000000
+mppb005,Jakarta Utara,Sunter,1,1,1,32.0,38000000
+btvb030,Jakarta Pusat,Bendungan Hilir,1,1,1,55.0,96000000
+ppvc225,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,47000000
+rsrd003,Jakarta Pusat,Kemayoran,1,2,3,196.0,300000000
+btvd002,Jakarta Pusat,Bendungan Hilir,1,3,3,184.0,372000000
+glsc019,Jakarta Utara,Sunter,1,1,2,42.0,40000000
+klcc173,Jakarta Selatan,Pancoran,1,1,2,30.0,36000000
+gvca001,Bekasi,Cikarang,1,1,0,39.0,150000000
+spha014,Jakarta Pusat,Kemayoran,1,1,0,33.0,66000000
+tmjc154,Jakarta Pusat,Kemayoran,1,1,2,76.0,90000000
+parb009,Jakarta Selatan,Pancoran,1,1,1,36.0,46000000
+lvnb011,Jakarta Selatan,Pancoran,1,1,1,65.0,120000000
+srcc010,Jakarta Selatan,Senayan,1,2,2,95.0,268000000
+anma003,Jakarta Utara,Ancol,1,1,0,50.0,60000000
+svrb001,Tangerang,BSD City,1,1,1,38.0,39000000
+splc010,Bekasi,Summarecon Bekasi,0,1,2,42.0,45000000
+stmc036,Jakarta Barat,Puri Indah,1,2,2,107.0,180000000
+ppvc044,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,42000000
+mg2c191,Jakarta Barat,Tanjung Duren,1,1,2,42.0,52000000
+twfb003,Jakarta Selatan,Kuningan,1,1,1,40.0,101100000
+taad009,Jakarta Barat,Tanjung Duren,1,2,3,146.0,140000000
+mepc060,Jakarta Pusat,Menteng,1,2,2,72.0,198000000
+mesb014,Jakarta Pusat,Menteng,1,1,1,33.0,47000000
+mesc017,Jakarta Pusat,Menteng,1,1,2,33.0,45000000
+kmva017,Jakarta Selatan,Kemang,1,1,0,38.0,120000000
+pktc028,Jakarta Selatan,Kebayoran Lama,1,2,2,50.0,75000000
+htpb010,Jakarta Selatan,Pondok Indah,1,1,1,58.0,126000000
+asrc003,Jakarta Selatan,Kuningan,1,2,2,90.0,180000000
+adyc020,Tangerang,Cikokol,1,1,2,38.0,36000000
+blma056,Jakarta Barat,Kebon Jeruk,1,1,0,23.0,35000000
+bscc165,Jakarta Timur,Cipinang,1,1,2,34.0,64300000
+stmc056,Jakarta Barat,Puri Indah,1,1,2,84.0,160000000
+cagb006,Jakarta Selatan,Casablanca,1,1,1,43.0,219650000
+skgd008,Jakarta Selatan,Setiabudi,1,2,3,135.0,372000000
+taac089,Jakarta Barat,Tanjung Duren,1,2,2,99.0,140000000
+gcab002,Jakarta Utara,Pantai Indah Kapuk,0,1,1,51.0,75000000
+stcd017,Jakarta Selatan,Sudirman,1,2,3,94.0,216000000
+pktc043,Jakarta Selatan,Kebayoran Lama,1,1,2,69.0,96000000
+nfrd002,Jakarta Selatan,Pasar Minggu,1,2,3,77.0,144000000
+rsrc007,Jakarta Pusat,Kemayoran,1,1,2,119.0,170000000
+gdic018,Jakarta Timur,Kelapa Gading,1,1,2,36.0,24500000
+tssc012,Jakarta Selatan,Semanggi,1,1,2,70.0,132000000
+gbpa052,Jakarta Utara,Pluit,1,1,0,21.0,27200000
+wsmc030,Jakarta Barat,Tanjung Duren,0,1,2,37.0,48000000
+gmmb030,Jakarta Barat,Gajah Mada,1,1,1,33.0,35000000
+kgcc008,Jakarta Selatan,Kebagusan,1,1,2,36.0,52200000
+trsb129,Jakarta Barat,Tanjung Duren,1,1,1,38.0,62500000
+gdic030,Jakarta Timur,Kelapa Gading,1,1,2,36.0,27500000
+htpc062,Jakarta Selatan,Pondok Indah,1,1,2,79.0,156000000
+parb002,Jakarta Selatan,Pancoran,1,1,1,34.0,40000000
+ssrc019,Jakarta Pusat,Sudirman,1,1,2,60.0,156000000
+btvb003,Jakarta Pusat,Bendungan Hilir,1,1,1,55.0,144000000
+mg1b031,Jakarta Barat,Tanjung Duren,1,1,1,26.0,43500000
+esdd015,Jakarta Selatan,Dharmawangsa,1,2,3,131.0,220800000
+glsc007,Jakarta Utara,Sunter,1,1,2,36.0,54000000
+mmac006,Jakarta Utara,Ancol,1,1,2,45.0,50100000
+klcc089,Jakarta Selatan,Pancoran,1,1,2,34.0,45000000
+bpva013,Jakarta Selatan,Bintaro,1,1,0,22.0,42000000
+apla016,Tangerang,Serpong,1,1,0,22.0,36000000
+twfb016,Jakarta Selatan,Kuningan,1,1,1,47.0,55000000
+svrc002,Tangerang,BSD City,0,1,2,49.0,70000000
+cbsa002,Depok,Cinere,1,1,0,22.0,36000000
+stmd023,Jakarta Barat,Puri Indah,1,2,3,112.0,150000000
+bscc248,Jakarta Timur,Cipinang,1,1,2,34.0,48750000
+trsa110,Jakarta Barat,Tanjung Duren,1,1,0,26.0,48000000
+mg1b022,Jakarta Barat,Tanjung Duren,1,1,1,36.0,40000000
+sgpa007,Jakarta Timur,MT Haryono,0,1,0,25.0,60000000
+ganc025,Jakarta Utara,Kelapa Gading,1,1,2,35.0,25000000
+epsa005,Jakarta Pusat,Gunung Sahari,0,1,0,27.0,42000000
+ssrc003,Jakarta Pusat,Sudirman,1,2,2,78.0,186000000
+trsc041,Jakarta Barat,Tanjung Duren,0,1,2,50.0,90000000
+sipa008,Jakarta Selatan,Tebet,1,1,0,24.0,57000000
+gklb014,Bekasi,Pekayon,1,1,1,36.0,48000000
+ganc053,Jakarta Utara,Kelapa Gading,0,1,2,35.0,20000000
+mbca001,Bekasi,Bekasi Timur,1,1,0,26.0,25000000
+sphd021,Jakarta Pusat,Kemayoran,1,3,3,100.0,130000000
+mpra011,Jakarta Barat,Kedoya,1,1,0,32.0,42000000
+narc015,Jakarta Utara,Ancol,1,1,2,41.0,38000000
+blgc006,Jakarta Selatan,Kuningan,1,1,2,56.0,140000000
+pkta021,Jakarta Selatan,Kebayoran Lama,1,1,0,23.0,45000000
+cagc003,Jakarta Selatan,Casablanca,1,2,2,78.0,259200000
+wrsc002,Jakarta Barat,Kedoya,1,2,2,130.0,266200000
+svcb005,Jakarta Utara,Pluit,1,1,1,42.0,60000000
+lvdc015,Jakarta Selatan,Tebet,1,1,2,55.0,100000000
+pucb181,Jakarta Barat,Cengkareng,0,1,1,35.0,30000000
+gprc039,Jakarta Pusat,Cempaka Putih,1,1,2,35.0,46000000
+stac008,Jakarta Barat,Daan Mogot,1,1,2,35.0,70400000
+gpvc006,Jakarta Barat,Cengkareng,1,1,2,35.0,33000000
+spcb003,Jakarta Selatan,Pancoran,0,2,1,97.0,140000000
+slmc013,Jakarta Pusat,Salemba,1,1,2,48.0,67000000
+scrf002,Jakarta Selatan,Senayan,1,2,2,110.0,397250000
+tnaa017,Tangerang,Karang Tengah,1,1,0,27.0,35000000
+19va003,Tangerang,Daan Mogot,0,1,0,21.0,24000000
+rorb004,Jakarta Selatan,Pejaten,1,1,1,35.0,82000000
+gmmb009,Jakarta Barat,Gajah Mada,1,1,1,36.0,40700000
+tmjc142,Jakarta Pusat,Kemayoran,1,1,2,62.0,70200000
+puma034,Jakarta Barat,Puri Indah,1,1,0,26.0,51000000
+bpra007,Jakarta Selatan,Bintaro,1,1,0,28.0,55000000
+pucc027,Jakarta Barat,Cengkareng,0,1,2,50.0,38000000
+re8c013,Jakarta Selatan,Senopati,1,2,2,178.0,408000000
+tssa016,Jakarta Selatan,Semanggi,1,1,0,34.0,78000000
+bscc247,Jakarta Timur,Cipinang,1,1,2,34.0,57000000
+stac003,Jakarta Barat,Daan Mogot,1,2,2,90.0,79000000
+gcab003,Jakarta Utara,Pantai Indah Kapuk,1,1,1,51.0,65000000
+gprc124,Jakarta Pusat,Cempaka Putih,1,1,2,35.0,42000000
+bscb017,Jakarta Timur,Cipinang,1,1,1,28.0,54000000
+gppc007,Jakarta Pusat,Slipi,1,2,2,52.0,108000000
+tcrd004,Jakarta Selatan,SCBD,1,2,3,170.0,599400000
+supc025,Jakarta Pusat,Sudirman,1,1,2,48.0,96000000
+ppva034,Jakarta Barat,Kebon Jeruk,1,1,0,22.0,36000000
+tmbc073,Jakarta Pusat,Kemayoran,1,1,2,49.0,70000000
+absd006,Jakarta Selatan,Kuningan,1,2,3,95.0,180000000
+parc076,Jakarta Selatan,Pancoran,1,1,2,35.0,43200000
+ocka001,Bekasi,Cikarang,1,1,0,30.0,57000000
+crwc034,Jakarta Selatan,Kuningan,1,2,2,76.0,200000000
+gdic028,Jakarta Timur,Kelapa Gading,1,1,2,36.0,25000000
+puca029,Jakarta Barat,Cengkareng,0,1,0,26.0,22000000
+bwjc001,Jakarta Selatan,Kebayoran Baru,1,1,2,100.0,240000000
+aplb006,Tangerang,Serpong,1,1,1,30.0,30000000
+mg2c018,Jakarta Barat,Tanjung Duren,1,1,2,42.0,56000000
+grpa022,Jakarta Selatan,Kalibata,1,1,0,29.0,46000000
+csmf002,Jakarta Selatan,Casablanca,1,2,3,66.0,156000000
+tmka008,Jakarta Selatan,Kemang,1,1,0,60.0,144000000
+gklc005,Bekasi,Pekayon,1,1,2,54.0,96000000
+supd003,Jakarta Pusat,Sudirman,1,1,3,68.0,100100000
+ppvc227,Jakarta Barat,Kebon Jeruk,0,1,2,35.0,30000000
+stmd037,Jakarta Barat,Puri Indah,1,3,3,157.0,280000000
+blmc013,Jakarta Barat,Kebon Jeruk,0,1,2,42.0,48000000
+esdd028,Jakarta Selatan,Dharmawangsa,1,3,3,153.0,360000000
+prgc006,Jakarta Selatan,Gandaria,1,2,2,122.0,204000000
+mg2c127,Jakarta Barat,Tanjung Duren,0,1,2,44.0,50000000
+ppvc071,Jakarta Barat,Kebon Jeruk,0,1,2,35.0,25000000
+strb007,Jakarta Timur,Cakung,1,1,1,30.0,27100000
+tasa031,Jakarta Selatan,Sudirman,1,1,0,29.0,55000000
+gphd005,Jakarta Selatan,Permata Hijau,1,2,3,140.0,180000000
+cdpa005,Tangerang,BSD City,1,1,0,28.0,39000000
+tmjc199,Jakarta Pusat,Kemayoran,1,1,2,74.0,70000000
+ssrd006,Jakarta Pusat,Sudirman,1,2,3,110.0,204000000
+tmbb136,Jakarta Pusat,Kemayoran,0,1,1,33.0,30000000
+sscc016,Jakarta Barat,Grogol,1,1,2,48.0,50000000
+mepa123,Jakarta Pusat,Menteng,1,1,0,33.0,84000000
+mepb016,Jakarta Pusat,Menteng,1,1,1,40.0,132000000
+tssc015,Jakarta Selatan,Semanggi,1,1,2,70.0,132000000
+makc004,Jakarta Selatan,Kemang,1,2,2,66.0,120000000
+wvpa001,Jakarta Barat,Puri Indah,0,1,0,30.0,33000000
+tssa045,Jakarta Selatan,Semanggi,1,1,0,32.0,72000000
+ppva116,Jakarta Barat,Kebon Jeruk,1,1,0,25.0,32400000
+plpd001,Jakarta Utara,Kelapa Gading,1,2,3,144.0,120000000
+thrb016,Jakarta Pusat,Thamrin,1,1,1,38.0,80550000
+blmc014,Jakarta Barat,Kebon Jeruk,0,1,2,42.0,45150000
+cpta002,Jakarta Pusat,Salemba,1,1,0,23.0,55000000
+pugd004,Jakarta Barat,Kembangan,0,2,3,139.0,100000000
+gbpf004,Jakarta Utara,Pluit,1,1,2,42.0,44000000
+aspd015,Jakarta Selatan,Fatmawati,1,1,3,83.0,144000000
+gbpc041,Jakarta Utara,Pluit,1,2,2,74.0,90000000
+mg2c128,Jakarta Barat,Tanjung Duren,1,1,2,42.0,52000000
+puma027,Jakarta Barat,Puri Indah,1,1,0,26.0,43500000
+gpva004,Jakarta Barat,Cengkareng,0,1,0,23.0,18000000
+mepc056,Jakarta Pusat,Menteng,1,2,2,60.0,120000000
+blma014,Jakarta Barat,Kebon Jeruk,1,1,0,21.0,34000000
+kmkc002,Jakarta Utara,Kelapa Gading,1,2,2,100.0,60000000
+tmbb119,Jakarta Pusat,Kemayoran,1,1,1,29.0,45000000
+rorc014,Jakarta Selatan,Pejaten,1,1,2,54.0,104500000
+tarc018,Jakarta Selatan,Kuningan,1,1,2,74.0,96000000
+gmrb001,Jakarta Utara,Kelapa Gading,1,1,1,36.0,49800000
+puca094,Jakarta Barat,Cengkareng,1,1,0,26.0,46000000
+sphd017,Jakarta Pusat,Kemayoran,1,2,3,100.0,90000000
+tflb003,Jakarta Timur,Pulomas,1,1,1,45.0,60000000
+tard011,Jakarta Selatan,Kuningan,1,2,3,98.0,108000000
+rmga022,Jakarta Barat,Tanjung Duren,1,1,0,30.0,57000000
+kmvf002,Jakarta Selatan,Kemang,1,2,3,168.0,423360000
+mepc007,Jakarta Pusat,Menteng,1,2,2,72.0,300000000
+klcc120,Jakarta Selatan,Pancoran,1,1,2,34.0,43300000
+pktc104,Jakarta Selatan,Kebayoran Lama,1,2,2,49.0,75600000
+taac085,Jakarta Barat,Tanjung Duren,1,1,2,88.0,110000000
+ssub008,Jakarta Pusat,Bendungan Hilir,1,1,1,41.0,196000000
+jkrb005,Jakarta Pusat,Thamrin,1,1,1,42.0,69000000
+grpc028,Jakarta Selatan,Kalibata,1,1,2,35.0,50000000
+tmmb004,Depok,Margonda,1,1,1,25.0,72000000
+bscc083,Jakarta Timur,Cipinang,1,1,2,48.0,78750000
+mg2c119,Jakarta Barat,Tanjung Duren,1,1,2,42.0,57000000
+tasa033,Jakarta Selatan,Sudirman,1,1,0,29.0,60000000
+mg2c137,Jakarta Barat,Tanjung Duren,1,1,2,42.0,57000000
+lvnc020,Jakarta Selatan,Pancoran,1,1,2,70.0,156000000
+blmc029,Jakarta Barat,Kebon Jeruk,0,1,2,43.0,40000000
+mepa070,Jakarta Pusat,Menteng,1,1,0,33.0,94200000
+taac061,Jakarta Barat,Tanjung Duren,1,1,2,88.0,90000000
+pktc029,Jakarta Selatan,Kebayoran Lama,1,1,2,40.0,65000000
+gbpa012,Jakarta Utara,Pluit,1,1,0,21.0,28000000
+mlkd005,Jakarta Pusat,Kemayoran,1,2,3,100.0,108000000
+posb002,Jakarta Selatan,Lebak Bulus,1,1,1,68.0,96000000
+esdc042,Jakarta Selatan,Dharmawangsa,1,1,2,64.0,156000000
+mepa062,Jakarta Pusat,Menteng,1,1,0,28.0,80000000
+cepb023,Jakarta Barat,Tanjung Duren,0,1,1,49.0,85000000
+cstc017,Jakarta Pusat,Thamrin,1,1,2,57.0,102000000
+thrc057,Jakarta Pusat,Thamrin,1,1,2,57.0,108000000
+tnac027,Tangerang,Karang Tengah,1,1,2,45.0,43800000
+tbba003,Jakarta Selatan,Bintaro,1,1,0,28.0,66000000
+psac001,Jakarta Selatan,Kebayoran Lama,1,2,2,148.0,529200000
+brzb002,Tangerang,BSD City,0,1,1,49.0,120000000
+ppvc165,Jakarta Barat,Kebon Jeruk,1,1,2,36.0,39000000
+tmbb038,Jakarta Pusat,Kemayoran,1,1,1,33.0,60000000
+gbpd005,Jakarta Utara,Pluit,0,1,3,60.0,43000000
+mepa010,Jakarta Pusat,Menteng,1,1,0,28.0,102000000
+mg2c125,Jakarta Barat,Tanjung Duren,1,1,2,42.0,56000000
+stac007,Jakarta Barat,Daan Mogot,1,1,2,49.0,55000000
+trsd062,Jakarta Barat,Tanjung Duren,1,2,3,65.0,95000000
+absd004,Jakarta Selatan,Kuningan,1,2,3,96.0,192000000
+tmjc042,Jakarta Pusat,Kemayoran,1,1,2,73.0,110000000
+gpra039,Jakarta Pusat,Cempaka Putih,1,1,0,21.0,42250000
+grpc032,Jakarta Selatan,Kalibata,1,1,2,38.0,60000000
+tasa028,Jakarta Selatan,Sudirman,1,0,0,20.8,51000000
+gmrd002,Jakarta Utara,Kelapa Gading,1,2,3,80.0,86400000
+pbmc006,Jakarta Pusat,Pasar Baru,0,1,2,50.0,40200000
+mesb005,Jakarta Pusat,Menteng,1,1,1,30.0,45000000
+tarc020,Jakarta Selatan,Kuningan,1,2,2,99.0,102000000
+pktf008,Jakarta Selatan,Kebayoran Lama,1,1,2,39.0,60000000
+sipc030,Jakarta Selatan,Tebet,1,1,2,38.0,65000000
+lvnc023,Jakarta Selatan,Pancoran,0,2,2,104.0,155000000
+mg2c072,Jakarta Barat,Tanjung Duren,1,1,2,42.0,47000000
+htpc045,Jakarta Selatan,Pondok Indah,1,2,2,82.0,155900000
+supc034,Jakarta Pusat,Sudirman,1,1,2,48.0,78000000
+mbrc001,Jakarta Pusat,Kemayoran,1,1,2,45.0,45000000
+kmvc062,Jakarta Selatan,Kemang,1,2,2,95.0,204000000
+mrsc001,Tangerang,Serpong,0,1,2,48.0,40000000
+grpc007,Jakarta Selatan,Kalibata,1,1,2,42.0,72000000
+tmbc054,Jakarta Pusat,Kemayoran,1,1,2,52.0,70000000
+strc005,Jakarta Timur,Cakung,1,1,2,42.0,31500000
+mrsc003,Tangerang,Serpong,1,2,2,64.0,100000000
+ppvc176,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,36000000
+tmma018,Depok,Margonda,1,1,0,27.0,36000000
+terf008,Jakarta Pusat,Thamrin,1,2,2,100.0,321850000
+stmc029,Jakarta Barat,Puri Indah,1,1,2,96.0,180000000
+kgca025,Jakarta Selatan,Kebagusan,1,1,0,25.0,35000000
+bscc074,Jakarta Timur,Cipinang,1,1,2,33.0,48000000
+bscc118,Jakarta Timur,Cipinang,1,1,2,34.0,52000000
+gdca011,Bekasi,Kalimalang,1,1,0,34.0,36000000
+gprc007,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,55000000
+gpra071,Jakarta Pusat,Cempaka Putih,0,1,0,21.0,35000000
+apsb001,Jakarta Pusat,Slipi,1,1,1,54.0,74000000
+lvnc026,Jakarta Selatan,Pancoran,1,1,2,72.0,196000000
+gklc012,Bekasi,Pekayon,1,1,2,65.0,96000000
+blzd012,Jakarta Selatan,Permata Hijau,1,2,3,140.0,220000000
+rmgd010,Jakarta Barat,Tanjung Duren,1,2,3,70.0,170000000
+mg1c204,Jakarta Barat,Tanjung Duren,0,1,2,40.0,31000000
+taac057,Jakarta Barat,Tanjung Duren,1,1,2,88.0,90000000
+blmc022,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,55000000
+pucb123,Jakarta Barat,Cengkareng,0,1,1,35.0,36000000
+esdd024,Jakarta Selatan,Dharmawangsa,1,2,3,100.0,216000000
+mepa110,Jakarta Pusat,Menteng,1,1,0,28.0,60000000
+phac002,Jakarta Selatan,Permata Hijau,1,2,2,165.0,216000000
+blma007,Jakarta Barat,Kebon Jeruk,1,1,0,22.0,35000000
+pkta042,Jakarta Selatan,Kebayoran Lama,0,1,0,23.0,40000000
+tmjc077,Jakarta Pusat,Kemayoran,1,1,2,74.0,75000000
+bscc319,Jakarta Timur,Cipinang,1,1,2,43.0,62000000
+trsb126,Jakarta Barat,Tanjung Duren,1,1,1,38.0,60000000
+btsa001,Bekasi,Bekasi,0,1,0,21.0,22500000
+epsa001,Jakarta Pusat,Gunung Sahari,1,1,0,30.0,55000000
+bscc102,Jakarta Timur,Cipinang,1,1,2,34.0,55000000
+rsrb003,Jakarta Pusat,Kemayoran,0,1,1,73.0,120100000
+cbdd016,Jakarta Utara,Pluit,1,3,3,88.0,135000000
+cstb002,Jakarta Pusat,Thamrin,1,1,1,40.0,90950000
+mg2c111,Jakarta Barat,Tanjung Duren,1,1,2,42.0,60000000
+pucc012,Jakarta Barat,Cengkareng,0,1,2,50.0,43000000
+kucb019,Jakarta Selatan,Kuningan,1,1,1,48.0,144000000
+ppvc052,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,36000000
+htpc028,Jakarta Selatan,Pondok Indah,1,2,2,82.0,216000000
+tssc011,Jakarta Selatan,Semanggi,1,1,2,70.0,144000000
+stmd024,Jakarta Barat,Puri Indah,0,3,3,204.0,190000000
+epsc003,Jakarta Pusat,Gunung Sahari,1,1,2,42.3,84000000
+skwb006,Tangerang,Serpong,1,1,1,50.0,45000000
+clsf003,Jakarta Pusat,Sudirman,1,1,1,49.0,130000000
+trsc001,Jakarta Barat,Tanjung Duren,0,1,2,50.0,70000000
+avpb001,Tangerang,BSD City,1,1,1,31.0,36000000
+mepa032,Jakarta Pusat,Menteng,1,1,0,28.0,80000000
+asrf003,Jakarta Selatan,Kuningan,1,2,2,80.0,143450000
+rsrd005,Jakarta Pusat,Kemayoran,1,2,3,196.0,240000000
+htpc006,Jakarta Selatan,Pondok Indah,1,1,2,58.0,210600000
+tmka006,Jakarta Selatan,Kemang,1,1,0,60.0,144000000
+mepa122,Jakarta Pusat,Menteng,1,1,0,33.0,78000000
+mepa031,Jakarta Pusat,Menteng,1,1,0,33.0,100000000
+brsa005,Tangerang,BSD City,1,1,0,25.0,55000000
+tnac026,Tangerang,Karang Tengah,0,1,2,44.0,35000000
+strc021,Jakarta Timur,Cakung,1,1,2,36.0,35750000
+tmbb118,Jakarta Pusat,Kemayoran,1,1,1,30.0,50000000
+tmjc099,Jakarta Pusat,Kemayoran,1,1,2,73.0,85000000
+trsb103,Jakarta Barat,Tanjung Duren,1,1,1,38.0,60000000
+clsb013,Jakarta Pusat,Sudirman,1,1,1,89.0,240000000
+clsb009,Jakarta Pusat,Sudirman,1,1,1,76.0,180000000
+mg1c203,Jakarta Barat,Tanjung Duren,1,1,2,42.0,41000000
+blgd028,Jakarta Selatan,Kuningan,1,2,3,104.0,252000000
+wpra001,Jakarta Selatan,Kalibata,1,1,0,28.0,68250000
+kmva014,Jakarta Selatan,Kemang,1,1,0,43.0,144000000
+sgpc015,Jakarta Timur,MT Haryono,1,1,2,49.0,70000000
+bsca067,Jakarta Timur,Cipinang,1,1,0,21.0,42250000
+slmd003,Jakarta Pusat,Salemba,1,2,3,85.0,80000000
+pucb103,Jakarta Barat,Cengkareng,1,1,1,35.2,48000000
+pryd007,Jakarta Pusat,Gatot Subroto,1,3,3,147.0,226000000
+rmgd013,Jakarta Barat,Tanjung Duren,1,2,3,110.0,185000000
+mpra032,Jakarta Barat,Kedoya,1,1,0,27.0,38850000
+tmbb135,Jakarta Pusat,Kemayoran,0,1,1,32.0,60000000
+mepa013,Jakarta Pusat,Menteng,1,1,0,33.0,145000000
+prmd001,Jakarta Selatan,Kuningan,1,2,3,146.0,291600000
+gppb001,Jakarta Pusat,Slipi,1,1,1,46.0,84000000
+cpta015,Jakarta Pusat,Salemba,0,1,0,24.0,55000000
+grpc043,Jakarta Selatan,Kalibata,1,1,2,35.0,61000000
+ssud007,Jakarta Pusat,Bendungan Hilir,1,1,3,64.0,261000000
+ssrc032,Jakarta Pusat,Sudirman,0,1,2,103.0,208000000
+spva053,Jakarta Utara,Sunter,0,1,0,25.0,21000000
+spla017,Bekasi,Summarecon Bekasi,1,1,0,21.0,33000000
+ppvc125,Jakarta Barat,Kebon Jeruk,1,1,2,36.0,40000000
+stac005,Jakarta Barat,Daan Mogot,1,1,2,49.0,50000000
+rmgc029,Jakarta Barat,Tanjung Duren,1,1,2,53.0,85000000
+cepd005,Jakarta Barat,Tanjung Duren,1,2,3,110.0,230000000
+slpd004,Jakarta Barat,Slipi,1,2,3,110.0,120000000
+gpra026,Jakarta Pusat,Cempaka Putih,1,1,0,21.0,40000000
+clic001,Jakarta Barat,Kalideres,1,0,2,41.0,65000000
+bscd077,Jakarta Timur,Cipinang,1,1,3,42.0,78000000
+lvdf007,Jakarta Selatan,Tebet,1,1,2,47.0,96000000
+mesc029,Jakarta Pusat,Menteng,1,1,2,30.0,41000000
+kgca024,Jakarta Selatan,Kebagusan,1,1,0,21.0,37000000
+pirc010,Jakarta Selatan,Pondok Indah,1,2,2,80.0,216000000
+gprb010,Jakarta Pusat,Cempaka Putih,1,1,1,33.0,50500000
+bscc081,Jakarta Timur,Cipinang,1,1,2,36.0,54500000
+btvc011,Jakarta Pusat,Bendungan Hilir,1,1,2,85.0,144000000
+cagb005,Jakarta Selatan,Casablanca,1,1,1,43.0,176400000
+mepc013,Jakarta Pusat,Menteng,1,1,2,58.0,189000000
+gana013,Jakarta Utara,Kelapa Gading,1,1,0,26.0,26000000
+mesc032,Jakarta Pusat,Menteng,1,1,2,30.0,70000000
+urka029,Tangerang,Karawaci,1,1,0,33.0,50000000
+splc002,Bekasi,Summarecon Bekasi,0,1,2,42.0,30000000
+18ad003,Jakarta Barat,Kedoya,1,3,3,150.0,180000000
+ascc003,Jakarta Pusat,Thamrin,1,2,2,142.0,534600000
+pumc016,Jakarta Barat,Puri Indah,1,1,2,63.0,80000000
+sgpc007,Jakarta Timur,MT Haryono,1,1,2,42.0,108000000
+klcc113,Jakarta Selatan,Pancoran,1,1,2,33.0,45400000
+mepa109,Jakarta Pusat,Menteng,1,1,0,33.0,70000000
+pucb178,Jakarta Barat,Cengkareng,0,1,1,35.0,30000000
+mg1c131,Jakarta Barat,Tanjung Duren,1,1,2,40.0,43000000
+fwkd005,Jakarta Utara,Kelapa Gading,1,2,3,105.0,100000000
+stac001,Jakarta Barat,Daan Mogot,1,1,2,48.0,65000000
+sgva006,Tangerang,Serpong,0,1,0,21.0,36000000
+ds8c007,Jakarta Selatan,Senopati,1,2,2,105.0,423360000
+terf002,Jakarta Pusat,Thamrin,1,1,2,65.0,154500000
+gica003,Bekasi,Kalimalang,1,1,0,22.0,42000000
+pcsc003,Jakarta Selatan,Casablanca,1,2,2,92.0,168000000
+supc028,Jakarta Pusat,Sudirman,1,1,2,48.0,78000000
+stra005,Jakarta Timur,Cakung,0,1,0,25.0,27000000
+mg1c110,Jakarta Barat,Tanjung Duren,1,1,2,40.0,47000000
+kucd004,Jakarta Selatan,Kuningan,1,2,3,114.0,360100000
+jkrb012,Jakarta Pusat,Thamrin,1,1,1,38.0,100000000
+aspd002,Jakarta Selatan,Fatmawati,1,2,3,90.0,192000000
+jkrb027,Jakarta Pusat,Thamrin,1,1,1,38.0,76150000
+harb002,Jakarta Timur,MT Haryono,1,1,1,32.0,39600000
+klcc064,Jakarta Selatan,Pancoran,1,1,2,36.0,56500000
+snya002,Jakarta Selatan,Kebayoran Lama,1,1,0,35.0,205200000
+pucb149,Jakarta Barat,Cengkareng,0,1,1,35.0,36000000
+thrb032,Jakarta Pusat,Thamrin,1,1,1,40.0,86400000
+trsc037,Jakarta Barat,Tanjung Duren,1,1,2,44.0,90000000
+csmc010,Jakarta Selatan,Casablanca,1,1,2,45.0,90950000
+parb013,Jakarta Selatan,Pancoran,0,1,1,30.0,40000000
+blgc002,Jakarta Selatan,Kuningan,1,2,2,84.0,243000000
+adyc006,Tangerang,Cikokol,1,1,2,39.0,40000000
+narb003,Jakarta Utara,Ancol,0,1,1,27.0,25000000
+ppvc169,Jakarta Barat,Kebon Jeruk,0,1,2,35.0,42000000
+klcc141,Jakarta Selatan,Pancoran,1,1,2,34.0,48000000
+kgcc030,Jakarta Selatan,Kebagusan,1,1,2,38.0,56400000
+moic003,Jakarta Utara,Kelapa Gading,1,1,2,45.0,65000000
+pbmc002,Jakarta Pusat,Pasar Baru,0,1,2,50.0,48000000
+mprc019,Jakarta Barat,Kedoya,1,1,2,55.0,80000000
+re8b003,Jakarta Selatan,Senopati,1,1,1,78.0,300000000
+gpvc039,Jakarta Barat,Cengkareng,0,1,2,33.0,25000000
+wgpb001,Jakarta Utara,Kelapa Gading,1,1,1,37.0,31000000
+gbpd008,Jakarta Utara,Pluit,1,1,3,49.0,60000000
+wsmc026,Jakarta Barat,Tanjung Duren,0,1,2,37.0,42000000
+tmbc050,Jakarta Pusat,Kemayoran,0,1,2,49.0,50000000
+gprc121,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,45000000
+lvnc032,Jakarta Selatan,Pancoran,1,1,2,70.0,144000000
+wsmc005,Jakarta Barat,Tanjung Duren,1,1,2,37.0,55100000
+klcc094,Jakarta Selatan,Pancoran,1,1,2,30.0,42000000
+htpd008,Jakarta Selatan,Pondok Indah,1,2,3,121.0,437400000
+pucb023,Jakarta Barat,Cengkareng,1,1,1,35.0,48000000
+kucd010,Jakarta Selatan,Kuningan,1,3,3,121.0,264000000
+cbsa004,Depok,Cinere,1,1,0,22.0,36000000
+spvc035,Jakarta Utara,Sunter,1,1,2,36.0,36000000
+mg2d009,Jakarta Barat,Tanjung Duren,1,0,3,70.0,60000000
+mpra052,Jakarta Barat,Kedoya,1,1,0,30.0,43000000
+urka026,Tangerang,Karawaci,1,1,0,32.0,46000000
+btvb007,Jakarta Pusat,Bendungan Hilir,1,1,1,38.0,84000000
+tmjc018,Jakarta Pusat,Kemayoran,1,2,2,70.0,100000000
+parb008,Jakarta Selatan,Pancoran,1,1,1,25.0,38000000
+mord005,Jakarta Pusat,Senen,1,2,3,114.0,124200000
+csaa002,Jakarta Pusat,Menteng,1,1,0,35.0,81600000
+gbpc043,Jakarta Utara,Pluit,1,1,2,35.0,48000000
+skgc002,Jakarta Selatan,Setiabudi,1,1,2,80.0,291600000
+rsrb002,Jakarta Pusat,Kemayoran,1,1,1,73.0,120000000
+klcc013,Jakarta Selatan,Pancoran,1,1,2,35.0,60600000
+gghc006,Jakarta Utara,Kelapa Gading,1,1,2,42.0,60000000
+pucb153,Jakarta Barat,Cengkareng,1,1,1,35.0,42000000
+cagd023,Jakarta Selatan,Casablanca,1,2,3,99.0,203950000
+pucb092,Jakarta Barat,Cengkareng,1,1,1,35.0,39000000
+tnac004,Tangerang,Karang Tengah,0,1,2,44.0,45000000
+stic014,Jakarta Utara,Sunter,1,1,2,46.0,37000000
+gtyb001,Jakarta Selatan,Pesanggrahan,1,1,1,31.0,30000000
+asrc012,Jakarta Selatan,Kuningan,1,2,2,74.0,126000000
+epsa017,Jakarta Pusat,Gunung Sahari,0,1,0,23.0,32400000
+taac074,Jakarta Barat,Tanjung Duren,1,2,2,88.0,97450000
+urka011,Tangerang,Karawaci,1,1,0,31.0,50000000
+rsrd007,Jakarta Pusat,Kemayoran,1,2,3,196.0,275000000
+mqrd011,Jakarta Barat,Kebon Jeruk,0,2,3,140.0,120000000
+more002,Jakarta Pusat,Senen,1,2,4,209.0,175650000
+bscc143,Jakarta Timur,Cipinang,1,1,2,40.0,60000000
+clac001,Tangerang,Ciputat,1,1,2,36.0,80000000
+thrb005,Jakarta Pusat,Thamrin,1,1,1,42.0,96000000
+csmd015,Jakarta Selatan,Casablanca,1,3,3,76.0,128000000
+puca135,Jakarta Barat,Cengkareng,1,1,0,26.0,37000000
+klcc115,Jakarta Selatan,Pancoran,1,1,2,34.0,36000000
+pucb033,Jakarta Barat,Cengkareng,1,1,1,36.0,35000000
+taac040,Jakarta Barat,Tanjung Duren,1,1,2,88.0,100000000
+sgpc017,Jakarta Timur,MT Haryono,1,1,2,51.0,108000000
+mprc006,Jakarta Barat,Kedoya,0,1,2,53.0,73500000
+tmbc107,Jakarta Pusat,Kemayoran,1,1,2,48.0,60000000
+esdc010,Jakarta Selatan,Dharmawangsa,1,1,2,72.0,211680000
+wsmc021,Jakarta Barat,Tanjung Duren,0,1,2,37.0,42000000
+crdc001,Depok,Cinere,1,1,2,36.0,54000000
+rorb007,Jakarta Selatan,Pejaten,0,1,1,36.0,50000000
+gplc003,Jakarta Barat,Duri Kosambi,1,1,2,35.0,49000000
+parb018,Jakarta Selatan,Pancoran,1,1,1,30.0,36000000
+apla014,Tangerang,Serpong,1,1,0,22.0,36000000
+ppvc092,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,37000000
+pkrf004,Jakarta Selatan,Pakubuwono,1,2,2,153.0,555660000
+cagc018,Jakarta Selatan,Casablanca,1,2,2,84.0,264000000
+gbpf001,Jakarta Utara,Pluit,1,1,2,42.0,43000000
+pucb108,Jakarta Barat,Cengkareng,0,1,1,35.0,33000000
+grpc005,Jakarta Selatan,Kalibata,1,1,2,35.0,52650000
+cbdd019,Jakarta Utara,Pluit,1,2,3,65.0,91300000
+bpvc001,Jakarta Selatan,Bintaro,1,1,2,38.0,54000000
+lvnc025,Jakarta Selatan,Pancoran,1,1,2,89.0,144000000
+rmgb016,Jakarta Barat,Tanjung Duren,1,1,1,35.0,75000000
+btvb022,Jakarta Pusat,Bendungan Hilir,1,1,1,49.0,108000000
+mg2c216,Jakarta Barat,Tanjung Duren,1,1,2,42.0,55000000
+gdbb011,Jakarta Selatan,Pejaten,1,1,1,32.0,48000000
+tbvb003,Jakarta Pusat,Tanah Abang,1,1,1,45.0,90000000
+blma031,Jakarta Barat,Kebon Jeruk,1,1,0,21.0,36000000
+anmb008,Jakarta Utara,Ancol,0,1,1,66.0,90000000
+mg1b036,Jakarta Barat,Tanjung Duren,1,1,1,26.0,32000000
+pktc108,Jakarta Selatan,Kebayoran Lama,1,1,2,42.0,72000000
+blgd023,Jakarta Selatan,Kuningan,1,2,3,200.0,300000000
+trsb022,Jakarta Barat,Tanjung Duren,0,1,1,38.0,60000000
+pkta044,Jakarta Selatan,Kebayoran Lama,1,1,0,22.0,42000000
+thrb033,Jakarta Pusat,Thamrin,1,1,1,38.0,84000000
+tmbb064,Jakarta Pusat,Kemayoran,1,1,1,33.0,50000000
+sphc011,Jakarta Pusat,Kemayoran,1,1,2,58.0,80000000
+esdc036,Jakarta Selatan,Dharmawangsa,1,1,2,63.0,245350000
+tmbc115,Jakarta Pusat,Kemayoran,0,1,2,52.0,43500000
+splc005,Bekasi,Summarecon Bekasi,0,1,2,41.0,30000000
+stmd008,Jakarta Barat,Puri Indah,0,3,3,148.0,400000000
+mepc016,Jakarta Pusat,Menteng,1,1,2,61.0,200000000
+pcsc009,Jakarta Selatan,Casablanca,1,2,2,92.0,168000000
+stmc050,Jakarta Barat,Puri Indah,1,2,2,120.0,200000000
+cagc033,Jakarta Selatan,Casablanca,1,3,2,80.0,250000000
+tmbb142,Jakarta Pusat,Kemayoran,0,1,1,50.0,45000000
+shob002,Jakarta Barat,Tanjung Duren,0,2,1,123.0,170000000
+klcc061,Jakarta Selatan,Pancoran,1,1,2,29.0,38000000
+pugd002,Jakarta Barat,Kembangan,1,2,3,71.0,180000000
+supc043,Jakarta Pusat,Sudirman,1,1,2,48.0,96000000
+gpva005,Jakarta Barat,Cengkareng,0,1,0,23.0,19000000
+wemc001,Jakarta Selatan,Kebayoran Baru,1,1,2,80.0,234000000
+spvc022,Jakarta Utara,Sunter,1,1,2,35.0,33000000
+crwd004,Jakarta Selatan,Kuningan,1,3,3,155.0,445950000
+mrsc009,Tangerang,Serpong,0,1,2,45.0,45000000
+gmrc013,Jakarta Utara,Kelapa Gading,1,1,2,39.0,60000000
+brob001,Tangerang,Alam Sutera,1,1,1,45.0,75000000
+blmc002,Jakarta Barat,Kebon Jeruk,1,1,2,44.0,70000000
+tmyb005,Jakarta Pusat,Kemayoran,1,1,1,30.0,45000000
+sgpb012,Jakarta Timur,MT Haryono,1,1,1,37.0,65000000
+s-c0001,Jakarta Selatan,Casablanca,1,2,2,93.0,162000000
+bpvc012,Jakarta Selatan,Bintaro,1,1,2,36.0,53000000
+mpkc028,Jakarta Pusat,Kemayoran,0,1,2,36.0,30000000
+prld003,Jakarta Selatan,Semanggi,1,3,3,184.0,300000000
+pumb011,Jakarta Barat,Puri Indah,1,1,1,37.0,38000000
+btcf002,Jakarta Selatan,Kebayoran Lama,1,2,2,195.0,521400000
+ppvc073,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,42000000
+fwrc001,Jakarta Selatan,Senayan,1,2,2,109.0,250000000
+mprc034,Jakarta Barat,Kedoya,1,1,2,53.0,72000000
+puca033,Jakarta Barat,Cengkareng,1,1,0,26.0,35000000
+skgf011,Jakarta Selatan,Setiabudi,1,2,2,93.0,324000000
+bscc009,Jakarta Timur,Cipinang,1,1,2,36.0,65000000
+atza001,Tangerang,Bintaro,1,1,0,28.0,48000000
+bscc063,Jakarta Timur,Cipinang,1,1,2,34.0,54000000
+shob018,Jakarta Barat,Tanjung Duren,0,2,1,96.0,135000000
+tmjb006,Jakarta Pusat,Kemayoran,1,1,1,49.0,62000000
+twfb002,Jakarta Selatan,Kuningan,1,1,1,40.0,101100000
+anmb010,Jakarta Utara,Ancol,1,1,1,65.0,76700000
+mqrd010,Jakarta Barat,Kebon Jeruk,1,3,3,140.0,160000000
+wgpc013,Jakarta Utara,Kelapa Gading,1,1,2,46.0,34000000
+mg1c099,Jakarta Barat,Tanjung Duren,1,1,2,40.0,40000000
+tard015,Jakarta Selatan,Kuningan,1,2,3,90.0,139000000
+asrc005,Jakarta Selatan,Kuningan,1,2,2,90.0,144000000
+mpra054,Jakarta Barat,Kedoya,1,1,0,29.0,44000000
+btvd008,Jakarta Pusat,Bendungan Hilir,1,3,3,107.0,180000000
+adyc001,Tangerang,Cikokol,1,1,2,39.0,42000000
+gdbc001,Jakarta Selatan,Pejaten,1,1,2,49.0,72000000
+bpva009,Jakarta Selatan,Bintaro,1,1,0,22.0,42000000
+kmvc060,Jakarta Selatan,Kemang,1,2,2,120.0,295000000
+mg2c043,Jakarta Barat,Tanjung Duren,0,1,2,42.0,39000000
+aspd024,Jakarta Selatan,Fatmawati,1,2,3,84.0,144000000
+gdic035,Jakarta Timur,Kelapa Gading,1,1,2,36.0,25000000
+mg2d022,Jakarta Barat,Tanjung Duren,1,2,3,70.0,95000000
+skgc030,Jakarta Selatan,Setiabudi,1,2,2,93.0,288000000
+aspd022,Jakarta Selatan,Fatmawati,1,2,3,84.0,144000000
+cbvc004,Jakarta Timur,Cibubur,0,1,2,35.0,40000000
+grpa025,Jakarta Selatan,Kalibata,1,1,0,23.0,43300000
+gpvc018,Jakarta Barat,Cengkareng,0,1,2,34.0,22000000
+sipc006,Jakarta Selatan,Tebet,1,1,2,38.0,84000000
+ppvc147,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,38000000
+rmgc074,Jakarta Barat,Tanjung Duren,1,1,2,42.0,75000000
+shod003,Jakarta Barat,Tanjung Duren,1,2,3,123.0,159000000
+pryd004,Jakarta Pusat,Gatot Subroto,1,2,3,187.0,324000000
+csbb003,Jakarta Selatan,Casablanca,1,1,1,83.0,259300000
+asid001,Jakarta Selatan,Simprug,1,3,3,110.0,156000000
+klcc124,Jakarta Selatan,Pancoran,1,1,2,33.0,46500000
+ganc008,Jakarta Utara,Kelapa Gading,1,1,2,35.0,30000000
+mtgd008,Jakarta Pusat,Menteng,1,2,3,144.0,276000000
+esdc034,Jakarta Selatan,Dharmawangsa,1,1,2,71.0,156000000
+klcb011,Jakarta Selatan,Pancoran,1,1,1,21.0,30000000
+klcc063,Jakarta Selatan,Pancoran,1,1,2,36.0,75000000
+spva018,Jakarta Utara,Sunter,1,1,0,22.0,30000000
+tmjc143,Jakarta Pusat,Kemayoran,1,1,2,74.0,80000000
+tbvb004,Jakarta Pusat,Tanah Abang,1,1,1,45.0,90000000
+bscc152,Jakarta Timur,Cipinang,1,1,2,34.0,72000000
+skgf010,Jakarta Selatan,Setiabudi,1,2,2,93.0,324000000
+mpkc032,Jakarta Pusat,Kemayoran,1,1,2,33.0,43200000
+gprc197,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,45000000
+blma067,Jakarta Barat,Kebon Jeruk,0,1,0,21.0,24000000
+tmjc092,Jakarta Pusat,Kemayoran,1,1,2,76.0,85900000
+taac050,Jakarta Barat,Tanjung Duren,1,1,2,88.0,90000000
+grka015,Jakarta Pusat,Mangga Besar,1,1,0,25.0,50000000
+bscc031,Jakarta Timur,Cipinang,1,1,2,36.0,47000000
+spsb001,Tangerang,Gading Serpong,1,1,1,42.0,55000000
+gcpc003,Bekasi,Pekayon,1,1,2,36.0,36000000
+pucb064,Jakarta Barat,Cengkareng,1,1,1,30.0,40000000
+mg1c106,Jakarta Barat,Tanjung Duren,1,1,2,40.0,42000000
+tssa006,Jakarta Selatan,Semanggi,1,1,0,30.0,66000000
+kgcc037,Jakarta Selatan,Kebagusan,1,1,2,36.0,65300000
+kmvc020,Jakarta Selatan,Kemang,1,1,2,94.0,216000000
+kucc053,Jakarta Selatan,Kuningan,1,1,1,83.0,135000000
+epsa021,Jakarta Pusat,Gunung Sahari,0,1,0,23.0,32400000
+ds8d003,Jakarta Selatan,Senopati,1,3,3,179.0,617400000
+trsc055,Jakarta Barat,Tanjung Duren,0,1,2,50.0,72000000
+bscc239,Jakarta Timur,Cipinang,1,1,2,35.0,49100000
+glva007,Tangerang,Ciputat,1,1,0,22.0,33000000
+gpra110,Jakarta Pusat,Cempaka Putih,0,1,0,21.0,40000000
+tmbc072,Jakarta Pusat,Kemayoran,0,1,2,49.0,57000000
+blmc030,Jakarta Barat,Kebon Jeruk,0,1,2,43.0,50000000
+tmbc134,Jakarta Pusat,Kemayoran,1,1,2,85.0,160000000
+trsd021,Jakarta Barat,Tanjung Duren,0,2,3,65.0,115000000
+kmvc041,Jakarta Selatan,Kemang,1,2,2,124.0,240000000
+kmva052,Jakarta Selatan,Kemang,1,1,0,43.0,150000000
+mesc024,Jakarta Pusat,Menteng,1,1,2,30.0,44000000
+splc006,Bekasi,Summarecon Bekasi,1,1,2,42.0,45000000
+mpkc033,Jakarta Pusat,Kemayoran,1,1,2,36.0,47000000
+tarc039,Jakarta Selatan,Kuningan,1,2,2,74.0,110000000
+pvlf003,Jakarta Pusat,Sudirman,1,3,3,144.0,331050000
+pcsd006,Jakarta Selatan,Casablanca,1,2,3,110.0,168000000
+tmjc104,Jakarta Pusat,Kemayoran,0,1,2,73.0,50000000
+gpva018,Jakarta Barat,Cengkareng,1,1,0,24.0,35750000
+thrb063,Jakarta Pusat,Thamrin,1,1,1,40.0,75000000
+sipc017,Jakarta Selatan,Tebet,1,1,2,64.0,88000000
+parc057,Jakarta Selatan,Pancoran,0,1,2,32.0,38900000
+btvb035,Jakarta Pusat,Bendungan Hilir,1,1,1,38.0,87000000
+gdic015,Jakarta Timur,Kelapa Gading,1,1,2,36.0,24500000
+mrsa003,Tangerang,Serpong,1,1,0,23.0,42000000
+adya011,Tangerang,Cikokol,0,1,0,23.5,33000000
+trsc015,Jakarta Barat,Tanjung Duren,0,2,2,99.0,150000000
+blgc014,Jakarta Selatan,Kuningan,1,2,2,84.0,300000000
+btvb026,Jakarta Pusat,Bendungan Hilir,1,1,1,35.0,108000000
+mepa034,Jakarta Pusat,Menteng,0,1,0,28.0,75000000
+fxrd005,Jakarta Selatan,Sudirman,1,2,3,92.0,259200000
+btvb019,Jakarta Pusat,Bendungan Hilir,1,0,1,49.0,125000000
+cevc002,Jakarta Selatan,Tebet,1,1,2,39.0,82000000
+mg1c200,Jakarta Barat,Tanjung Duren,1,1,2,40.0,36000000
+p-c0001,Jakarta Selatan,Cilandak,1,2,2,155.0,378000000
+pirb008,Jakarta Selatan,Pondok Indah,1,1,1,80.0,273150000
+tfla026,Jakarta Timur,Pulomas,0,1,0,21.0,21000000
+lvnc031,Jakarta Selatan,Pancoran,1,1,2,70.0,204000000
+parc012,Jakarta Selatan,Pancoran,1,1,2,66.0,86600000
+blgd013,Jakarta Selatan,Kuningan,1,1,3,110.0,245000000
+kucb033,Jakarta Selatan,Kuningan,1,1,1,44.0,151200000
+trsa003,Jakarta Barat,Tanjung Duren,1,1,0,26.0,38000000
+epac011,Jakarta Timur,Jatinegara,1,1,2,33.0,30000000
+pucb184,Jakarta Barat,Cengkareng,1,1,1,35.0,43000000
+gprc152,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,65000000
+puca028,Jakarta Barat,Cengkareng,1,1,0,26.0,33000000
+blma106,Jakarta Barat,Kebon Jeruk,1,1,0,21.0,33000000
+mlkd013,Jakarta Pusat,Kemayoran,1,3,3,127.0,196000000
+lvdd002,Jakarta Selatan,Tebet,1,3,3,82.0,138000000
+taad004,Jakarta Barat,Tanjung Duren,1,2,3,146.0,130000000
+stmd021,Jakarta Barat,Puri Indah,1,2,3,112.0,150000000
+gdca008,Bekasi,Kalimalang,1,1,0,25.0,42000000
+ppvc034,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,38000000
+tbvb017,Jakarta Pusat,Tanah Abang,1,1,1,45.0,76550000
+puma036,Jakarta Barat,Puri Indah,0,1,0,26.0,35000000
+klcc023,Jakarta Selatan,Pancoran,1,1,2,33.0,57950000
+kgca031,Jakarta Selatan,Kebagusan,1,1,0,60.0,60000000
+tflc003,Jakarta Timur,Pulomas,1,1,2,43.0,40000000
+pucb157,Jakarta Barat,Cengkareng,1,1,1,35.2,36000000
+ssrb012,Jakarta Pusat,Sudirman,1,1,1,40.0,138000000
+ssrc040,Jakarta Pusat,Sudirman,1,1,2,88.0,168000000
+grrc003,Jakarta Utara,Kelapa Gading,1,2,2,100.0,120000000
+mapb016,Jakarta Barat,Tanjung Duren,1,1,1,30.0,55000000
+mlkd003,Jakarta Pusat,Kemayoran,1,2,3,60.0,125000000
+klcc035,Jakarta Selatan,Pancoran,1,1,2,33.0,39000000
+mepa009,Jakarta Pusat,Menteng,1,1,0,29.0,100000000
+tmbd008,Jakarta Pusat,Kemayoran,1,2,3,90.0,110000000
+jkrb007,Jakarta Pusat,Thamrin,1,1,1,36.0,84000000
+crwc029,Jakarta Selatan,Kuningan,1,2,2,102.0,290000000
+bica002,Tangerang,Bintaro,0,1,0,21.0,25000000
+tmbb012,Jakarta Pusat,Kemayoran,0,1,1,29.0,35000000
+lvnc004,Jakarta Selatan,Pancoran,1,1,2,122.0,180000000
+stra003,Jakarta Timur,Cakung,1,1,0,21.0,24000000
+mepa116,Jakarta Pusat,Menteng,1,1,0,28.0,84000000
+mpra051,Jakarta Barat,Kedoya,1,1,0,27.0,40000000
+ppvc219,Jakarta Barat,Kebon Jeruk,1,1,2,35.0,45500000
+gprc136,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,54000000
+blmb002,Jakarta Barat,Kebon Jeruk,1,1,1,32.0,40000000
+prya005,Jakarta Pusat,Gatot Subroto,1,1,0,34.0,72000000
+aspc006,Jakarta Selatan,Fatmawati,1,1,2,48.0,100000000
+mmac021,Jakarta Utara,Ancol,1,2,2,61.0,50000000
+rmgc027,Jakarta Barat,Tanjung Duren,1,1,2,53.0,80000000
+tasa026,Jakarta Selatan,Sudirman,1,1,0,26.0,60000000
+moic064,Jakarta Utara,Kelapa Gading,1,1,2,45.0,55000000
+puca096,Jakarta Barat,Cengkareng,0,1,0,26.0,33000000
+pkta051,Jakarta Selatan,Kebayoran Lama,1,1,0,23.0,43500000
+mepa001,Jakarta Pusat,Menteng,1,1,0,28.0,95200000
+thrb024,Jakarta Pusat,Thamrin,1,1,1,41.0,102000000
+gdic016,Jakarta Timur,Kelapa Gading,1,1,2,36.0,24500000
+mpra043,Jakarta Barat,Kedoya,1,1,0,32.0,48000000
+thrc027,Jakarta Pusat,Thamrin,1,1,2,65.0,108000000
+trsa009,Jakarta Barat,Tanjung Duren,1,1,0,26.0,45000000
+bscc019,Jakarta Timur,Cipinang,0,1,2,35.0,38000000
+vtrc005,Jakarta Barat,Daan Mogot,0,1,2,32.0,40000000
+blzb012,Jakarta Selatan,Permata Hijau,1,1,1,68.0,110000000
+cbdd014,Jakarta Utara,Pluit,0,2,3,63.0,80000000
+tera019,Jakarta Pusat,Thamrin,1,1,0,23.0,70000000
+gprc023,Jakarta Pusat,Cempaka Putih,1,1,2,35.0,45000000
+sscc011,Jakarta Barat,Grogol,1,1,2,45.0,44100000
+cbsa003,Depok,Cinere,1,1,0,22.0,36000000
+sdmd002,Jakarta Selatan,Sudirman,1,2,3,175.0,405000000
+gprc059,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,53000000
+skwc001,Tangerang,Serpong,1,1,2,58.0,55000000
+sscc006,Jakarta Barat,Grogol,0,1,2,45.0,42000000
+lvnd003,Jakarta Selatan,Pancoran,1,3,3,162.0,324000000
+pucb007,Jakarta Barat,Cengkareng,0,1,1,35.2,35000000
+mr2b001,Depok,Margonda,1,1,1,80.0,70000000
+mg2c165,Jakarta Barat,Tanjung Duren,1,1,2,42.0,57000000
+tbvb016,Jakarta Pusat,Tanah Abang,1,1,1,45.0,90000000
+mpkc018,Jakarta Pusat,Kemayoran,1,1,2,36.0,35000000
+gprc151,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,49500000
+taac037,Jakarta Barat,Tanjung Duren,1,2,2,88.0,85000000
+klcc012,Jakarta Selatan,Pancoran,1,1,2,33.0,42000000
+lvnc036,Jakarta Selatan,Pancoran,1,1,2,75.0,186000000
+bscd071,Jakarta Timur,Cipinang,0,1,3,48.0,65250000
+stcd001,Jakarta Selatan,Sudirman,1,2,3,100.0,226800000
+spva019,Jakarta Utara,Sunter,1,1,0,22.0,42000000
+ppvc105,Jakarta Barat,Kebon Jeruk,0,1,2,35.0,36000000
+shob019,Jakarta Barat,Tanjung Duren,0,2,1,120.0,120000000
+tmbc051,Jakarta Pusat,Kemayoran,1,1,2,57.0,59550000
+blma028,Jakarta Barat,Kebon Jeruk,1,1,0,21.0,36000000
+kmvd042,Jakarta Selatan,Kemang,1,2,3,165.0,450000000
+lvdc023,Jakarta Selatan,Tebet,1,1,2,47.0,102000000
+pugb003,Jakarta Barat,Kembangan,1,1,1,43.0,60000000
+mesb009,Jakarta Pusat,Menteng,1,1,1,27.0,39000000
+gprc169,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,42000000
+ccec001,Bekasi,Lippo Cikarang,1,1,2,70.0,100000000
+puma010,Jakarta Barat,Puri Indah,0,1,0,26.0,30000000
+rmgc023,Jakarta Barat,Tanjung Duren,1,1,2,42.0,80000000
+mg1c055,Jakarta Barat,Tanjung Duren,1,1,2,42.0,42000000
+gdic050,Jakarta Timur,Kelapa Gading,1,1,2,42.0,42000000
+mepb003,Jakarta Pusat,Menteng,1,1,1,40.0,101000000
+btvc008,Jakarta Pusat,Bendungan Hilir,1,1,2,90.0,144000000
+ssub004,Jakarta Pusat,Bendungan Hilir,1,1,1,42.0,190000000
+snpc001,Jakarta Selatan,Kebayoran Baru,1,2,2,166.0,300000000
+blgd016,Jakarta Selatan,Kuningan,1,2,3,108.0,198000000
+spvc073,Jakarta Utara,Sunter,0,1,2,36.0,21600000
+pucb099,Jakarta Barat,Cengkareng,1,1,1,32.0,53350000
+bscc036,Jakarta Timur,Cipinang,1,1,2,34.0,52000000
+mtsb001,Tangerang,Gading Serpong,1,1,1,42.0,60000000
+blzc016,Jakarta Selatan,Permata Hijau,1,2,2,120.0,259800000
+sgpc026,Jakarta Timur,MT Haryono,1,1,2,42.0,100000000
+mg1c056,Jakarta Barat,Tanjung Duren,0,1,2,35.0,39000000
+blzb002,Jakarta Selatan,Permata Hijau,1,1,1,65.0,162000000
+tarc035,Jakarta Selatan,Kuningan,1,2,2,74.0,102000000
+pucb078,Jakarta Barat,Cengkareng,1,1,1,35.0,70000000
+mpkd002,Jakarta Pusat,Kemayoran,1,2,3,82.0,60000000
+mlka001,Jakarta Pusat,Kemayoran,0,2,0,100.0,100000000
+tmbc047,Jakarta Pusat,Kemayoran,1,1,2,90.0,90000000
+mg2c152,Jakarta Barat,Tanjung Duren,1,1,2,42.0,60000000
+kmvc003,Jakarta Selatan,Kemang,1,2,2,107.0,192000000
+tmka009,Jakarta Selatan,Kemang,1,1,0,60.0,132000000
+rsrb013,Jakarta Pusat,Kemayoran,1,1,1,73.0,108000000
+pktf012,Jakarta Selatan,Kebayoran Lama,1,1,2,40.0,60000000
+ssrd005,Jakarta Pusat,Sudirman,1,2,3,160.0,364500000
+tmjc030,Jakarta Pusat,Kemayoran,1,1,2,74.0,100000000
+pucb107,Jakarta Barat,Cengkareng,1,1,1,35.0,50000000
+grpa010,Jakarta Selatan,Kalibata,1,1,0,21.0,40000000
+pucb105,Jakarta Barat,Cengkareng,0,1,1,35.0,38000000
+fwkc010,Jakarta Utara,Kelapa Gading,1,2,2,83.0,110000000
+tnac015,Tangerang,Karang Tengah,1,1,2,44.0,48750000
+mg1c103,Jakarta Barat,Tanjung Duren,1,1,2,40.0,45000000
+tnaa028,Tangerang,Karang Tengah,1,1,0,27.0,32500000
+btvb033,Jakarta Pusat,Bendungan Hilir,1,1,1,38.0,90950000
+gprc068,Jakarta Pusat,Cempaka Putih,1,1,2,33.0,60000000
+blgd003,Jakarta Selatan,Kuningan,1,3,3,168.0,283500000
+crda008,Depok,Cinere,1,1,0,23.0,36000000
+blma032,Jakarta Barat,Kebon Jeruk,1,1,0,21.0,50000000
+tssa042,Jakarta Selatan,Semanggi,1,1,0,33.0,72000000
+epsa018,Jakarta Pusat,Gunung Sahari,0,1,0,23.0,36000000
+adyc010,Tangerang,Cikokol,1,1,2,38.0,40000000
+pucb009,Jakarta Barat,Cengkareng,0,1,1,35.0,27000000
+mepa073,Jakarta Pusat,Menteng,1,1,0,33.0,123000000
+mg2d012,Jakarta Barat,Tanjung Duren,1,1,3,70.0,100000000
+btvb028,Jakarta Pusat,Bendungan Hilir,1,1,1,49.0,132000000
+psvd002,Jakarta Utara,Pluit,0,1,3,56.0,60000000
+mprc009,Jakarta Barat,Kedoya,0,1,2,55.0,42000000
+stic021,Jakarta Utara,Sunter,1,1,2,47.0,48000000
+frrc001,Jakarta Selatan,Sudirman,1,2,2,121.0,576000000
+pmsc006,Jakarta Pusat,Senayan,1,1,2,98.0,72000000
+moic063,Jakarta Utara,Kelapa Gading,0,1,2,45.0,33000000
+gtyc005,Jakarta Selatan,Pesanggrahan,0,1,2,33.0,32000000
+pgva004,Depok,Cimanggis,0,1,0,21.0,12000000
+klcc018,Jakarta Selatan,Pancoran,1,1,2,33.0,47450000
+mesb025,Jakarta Pusat,Menteng,1,1,1,30.0,58000000
+sscc015,Jakarta Barat,Grogol,1,1,2,48.0,55000000
+cdpa019,Tangerang,BSD City,1,1,0,33.0,45000000
+pucb180,Jakarta Barat,Cengkareng,0,1,1,35.0,30000000
+gdbb013,Jakarta Selatan,Pejaten,1,1,1,33.0,48000000
+merd001,Jakarta Selatan,Cilandak,1,3,3,200.0,264000000
+skva001,Tangerang,BSD City,1,1,0,21.0,32000000
+esdd008,Jakarta Selatan,Dharmawangsa,1,2,3,150.0,425000000
+mg2c055,Jakarta Barat,Tanjung Duren,1,1,2,42.0,55000000
+tmbb116,Jakarta Pusat,Kemayoran,1,1,1,29.0,45000000
+mg2d010,Jakarta Barat,Tanjung Duren,1,1,3,65.0,100000000
+ds8c011,Jakarta Selatan,Senopati,1,2,2,105.0,441000000
+pucb031,Jakarta Barat,Cengkareng,1,1,1,35.0,55000000
+ssrc013,Jakarta Pusat,Sudirman,1,2,2,82.0,226800000
+gpvc020,Jakarta Barat,Cengkareng,0,1,2,59.0,27000000
+wsmc018,Jakarta Barat,Tanjung Duren,1,1,2,50.0,86900000
+lvdf003,Jakarta Selatan,Tebet,1,1,2,48.0,88300000
+btvb006,Jakarta Pusat,Bendungan Hilir,1,1,1,55.0,102000000
+mqrd018,Jakarta Barat,Kebon Jeruk,1,2,3,138.0,150000000
+lvdc019,Jakarta Selatan,Tebet,1,1,2,56.0,95000000
+mg2d030,Jakarta Barat,Tanjung Duren,1,1,3,160.0,95000000
+urka016,Tangerang,Karawaci,1,1,0,33.0,55000000
+aspd018,Jakarta Selatan,Fatmawati,1,2,3,92.0,135000000
+posd005,Jakarta Selatan,Lebak Bulus,1,2,3,126.0,108000000
+pdha004,Tangerang,Alam Sutera,1,1,0,31.0,40000000
+ocka004,Bekasi,Cikarang,1,1,0,30.0,52000000
+hreb004,Jakarta Timur,MT Haryono,1,1,1,42.0,91000000
+wgpc007,Jakarta Utara,Kelapa Gading,1,1,2,37.0,31000000
+btvb021,Jakarta Pusat,Bendungan Hilir,1,1,1,54.0,132000000
+apla002,Tangerang,Serpong,1,1,0,23.0,30000000
+mrsc010,Tangerang,Serpong,0,1,2,39.0,50000000
+trsd059,Jakarta Barat,Tanjung Duren,1,2,3,65.0,90000000
+rorc005,Jakarta Selatan,Pejaten,1,1,2,52.0,96000000
+bscc333,Jakarta Timur,Cipinang,1,1,2,36.0,50000000
+lvnc041,Jakarta Selatan,Pancoran,1,1,2,72.0,120000000
+crwc023,Jakarta Selatan,Kuningan,1,2,2,86.0,303800000
+lvnc045,Jakarta Selatan,Pancoran,1,1,2,122.0,228000000
+supc067,Jakarta Pusat,Sudirman,1,1,2,48.0,75600000
